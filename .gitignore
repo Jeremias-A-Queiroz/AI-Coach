@@ -1,0 +1,16 @@
+# Arquivos de backup e lock do Emacs
+# Ignora arquivos que terminam com ~ (backups)
+*~
+# Ignora arquivos de lock/autosave do Emacs (como #nomearquivo# ou #nomedoarquivo)
+#*# 
+
+# Ignorar o conteúdo do diretório zepp-data/, mas manter o diretório vazio no Git.
+# O diretório 'zepp-data' em si deve ser rastreado.
+
+# 1. Ignora todos os arquivos e subdiretórios dentro de zepp-data/
+zepp-data/*
+
+# 2. Re-inclui um arquivo específico, garantindo que o diretório exista no repo.
+# Você deve criar manualmente este arquivo dentro da pasta (ex: touch zepp-data/.gitkeep) 
+# e adicioná-lo ao Git (git add zepp-data/.gitkeep)
+!zepp-data/.gitkeep

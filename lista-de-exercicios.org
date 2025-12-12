@@ -1,0 +1,1518 @@
+* Conceito
+  Nesse documento consta uma lista exaustiva de exercícios que são
+  compatíveis com os modelos de treino do Zepp app.
+  
+** Premissas
+
+*** Exercícios repetidos em grupos musculares diferentes
+    Os exercícios estão classificados por grupos musculares que eles
+    atingem. Note que certos exercícios atingem grupos musculares
+    diversos, nesses casos o nome desses exercícios se repetem entre
+    grupos musculares diferentes, isso é esperado e útil.
+
+*** Idioma
+    Existem exercícios que potem se reptir na lista no mesmo tópico,
+    porém em idiomas diferentes, por exemplo "Pushup" e
+    "Flexões". Nesses casos dê preferencia para o nome em português.
+
+    Para exercícios que constarem na lista que tiverem apenas o nome
+    em inglês, deve ser colocado no campo nota do intervalo em questão
+    a tradução para português equivalente, não deve-se fazer uma
+    tradução "burra", mas procurar a terminologia correta em português.
+
+*** Obscuridade
+    Evite escolher exercícios muito obscuros e/ou menos comuns.
+* Ombros e Pescoço
+  Alligator Crawl
+  Arnold Press
+  Balanço com kettlebell unilateral (direito)
+  Balanço com kettlebell unilateral (esquerdo)
+  Balanço com kettlebell
+  Bent Over Wide Row with Arm Extension
+  Bear Crawl
+  Back Squeeze Pen
+  Bodyweight Press
+  Bodyweight Arnold Press
+  Bodyweight Front Raise
+  Bodyweight Cuban Press
+  Bent Over Dumbbell Reverse Fly
+  Bodyweight Front Raise Hold
+  Barbell Wide Grip Upright Row
+  Barbell Front Raise
+  Barbell Behind the Neck Press
+  Bodyweight Overhead Lateral Raise
+  Bent Over Dumbbell Wide Row
+  Bent Over Head Hug Reverse Elbow Raise
+  Bodyweight Full Lateral Raise
+  Bent Over Resistance Band Reverse Fly
+  Bent Over Stability Ball Row
+  Bent Over Resistance Band Right Arm Lateral Raise
+  Bent Over Resistance Band Left Arm Lateral Raise
+  Bent Over W-Stretch
+  Bent Over Y-Stretch
+  Bent Over T-Stretch
+  Bent Over A-Stretch
+  Bent Over I-Stretch
+  Bent Over Dumbbell Kickback
+  Bent Over Resistance Band W-Stretch
+  Bent Over Resistance Band Y-Stretch
+  Bent Over Resistance Band A-Stretch
+  Corda naval
+  Crucifixo invertido no voador
+  Crucifixo invertido no TRX
+  Crucifixo na polia baixa
+  Crucifixo no crossover
+  Desenvolvimento de ombro
+  Desenvolvimento de ombros com halteres
+  Desenvolvimento de ombros com halteres com rotação
+  Desenvolvimento de ombros com barra
+  Desenvolvimento de ombros composto com halteres
+  Desenvolvimento de ombro na máquina
+  Dumbbell Pronated Front Raise
+  Dumbbell Neutral Grip Press
+  Dumbbell Hammer Alternating Front Raise
+  Dumbbell Compound Press
+  Dumbbell Shoulder External Rotation
+  Deep Shoulder Activation
+  Dumbbell Front Raise Curl Combo
+  Dumbbell Pronated Alternating Front Raise
+  Dumbbell Front Raise Abduction
+  Dumbbell Lateral Raise Adduction
+  Dumbbell Neutral Grip Alternating Front Raise
+  Dumbbell Hammer Compound Press
+  Dumbbell Cuban Press
+  Dumbbell Combo Raise
+  Dumbbell Compound Raise
+  Elevação lateral
+  Elevação lateral com elástico
+  Elevação lateral com halteres
+  Elevação frontal com halteres
+  Elevação frontal com halter (esquerdo)
+  Elevação frontal com halter (direito)
+  Elevação lateral inclinado
+  Elevação frontal
+  Extensão de tríceps no TRX
+  Empurrar em três pontos de apoio
+  Forward-Backward Cat Crawl
+  Forward and Backward Bear Crawl
+  Gorilla Crawl
+  Qorizontal Hammer Curl
+  Hula Hoop Overhead Twist
+  Head Resting Bent Over Reverse Fly
+  High Resistance Band Row
+  In-Place Bear Crawl
+  Inchworm to Tuck Jump
+  Inchworm with Back Extension
+  Incline Left Dumbbell Lateral Raise
+  Incline Right Dumbbell Lateral Raise
+  Left Dumbbell Windmill
+  Leopard Crawl
+  L-Stretch
+  Left Shoulder Rear Stretch
+  Left Dumbbell Lateral Raise
+  Left Resistance Band Lateral Raise
+  Left Resistance Band Front Raise
+  Overhead Dumbbell Lateral Raise
+  Polichinelo
+  Puxada alta
+  Pike Push-Up
+  Prone Dumbbell Reverse Fly
+  Pendlay Row
+  Prone A-Stretch
+  Remada alta
+  Remada alta com halteres
+  Remada alta inclinada com halteres
+  Right Dumbbell Windmill
+  Right Shoulder Rear Stretch
+  Right Dumbbell Lateral Raise
+  Resistance Band Upright Row
+  Resistance Band Lateral Raise
+  Resistance Band T-Stretch
+  Resistance Band Shoulder External Rotation
+  Resistance Band Press
+  Resistance Band Diagonal Stretch
+  Resistance Band Front Raise
+  Resistance Band Neutral Grip Overhead Press
+  Resistance Band Arm Openings
+  Resistance Band Reverse Fly
+  Resistance Band Combo Raise
+  Right Resistance Band Lateral Raise
+  Resistance Band Front Raise
+  Right Resistance Band Front Raise
+  Resistance Band Combo Press
+  Resistance Band Alternating Press
+  Right Resistance Band Front Raise
+  Resistance Band Straight Arm Pulldown
+  Resistance Band High Row
+  Supino no cabo com banco inclinado
+  Supino inclinado na máquina
+  Supino declinado na máquina
+  Sliding Plank
+  Single Dumbbell Curl to Front Raise Combo
+  Standing Dumbbell Press
+  Shoulder Front Stretch
+  Standing Deep Shoulder Activation
+  Standing Barbell Press
+  Single Dumbbell Front Raise
+  Seated Shoulder External Rotation
+  Static Lateral Raise
+  Seated Barbell Neck Press
+  Seated Bent Over Dumbbell Reverse Fly
+  Standing Dumbbell Neutral Grip Press
+  Self-Hug Shoulder Stretch
+  Standing Shoulder Front Stretch
+  Seated Reverse Grip Overhead Press
+  Seated Dumbbell Press
+  Seated Resistance Band Chest Expansion
+  Seated Alternating Dumbbell Press
+  Seated Right Dumbbell Shoulder External Rotation
+  Seated Left Dumbbell Shoulder External Rotation
+  Seated Resistance Band Press
+  Side-Lying Right Dumbbell Shoulder External Rotation
+  Side-Lying Left Dumbbell Shoulder External Rotation
+  Seated Resistance Band Bent Over Fly
+  Standing Left Resistance Band Shoulder External Rotation
+  Standing Right Resistance Band Shoulder External Rotation
+  Seated Resistance Band Row
+  Scott Press
+  Stability Ball L-Stretch
+  Side-Lying Left Dumbbell Lateral Raise
+  Side-Lying Right Dumbbell Lateral Raise
+  Seated Resistance Band Lateral Raise
+  Seated Alternating Resistance Band Press
+  Standing Dumbbell Steering Wheel
+  Seated Left Rear Neck Stretch
+  Seated Right Rear Neck Stretch
+  Seated Left Neck Stretch
+  Seated Resistance Band High Row
+  Seated Right Neck Stretch
+  Stability Ball A-Stretch
+  Stability Ball T-Stretch
+  Triceps Dip
+  Voadores no cabo com banco inclinado
+
+* Musculos das pernas
+  Agachamento com peso corporal
+  Agachamento frontal com braço reto
+  Agachamento com barra
+  Agachamento no smith
+  Avanço alternado
+  Alternating Knee Raise Squat
+  Alternating Side Lunge
+  Assisted Squat
+  Ab Wheel Glute Bridge
+  Alternating Lunge with Twist
+  Burpees
+  Banded Knee Crab Walk
+  Bent Over Right Leg Stretch
+  Box Squat
+  Bent Over Alternating Hamstring Stretch
+  Bent Over Dynamic Hamstring Stretch
+  Bent Over Left Leg Stretch
+  Bent Over Kneeling Left Hamstring Stretch
+  Barbell Straight Leg Deadlift
+  Barbell Romanian Deadlift
+  Banded Squat with Forward-Backward Movement
+  Banded Squat
+  Barbell Sumo Deadlift
+  Banded Squat with Knee Band
+  Banded Alternating Crab Walk
+  Barbell Forward Alternating Lunge
+  Banded Ankle Alternating Crab Walk
+  Barbell Front Squat
+  Barbell Reverse Alternating Lunge
+  Barbell Overhead Squat
+  Barbell Alternating Side Lunge
+  Barbell Left Bulgarian Split Squat
+  Barbell Box Squat
+  Barbell Bulgarian Split Squat
+  BOSU Ball Half Squat Rock
+  Barbell Good Morning
+  BOSU Ball Touchdown Squat
+  BOSU Ball Left Lunge
+  BOSU Ball Right Lunge
+  Cushion Squat
+  Cossack Squat
+  Chair Supported Half Squat
+  Deslizamento lateral
+  Dumbbell Squat
+  Diagonal Backward Lunge
+  Dumbbell Straight Leg Deadlift
+  Dumbbell Sumo Squat
+  Dumbbell Single Leg Deadlift
+  Dumbbell Deadlift
+  Dumbbell Thruster
+  Dumbbell Row Deadlift
+  Dumbbell Forward Alternating Lunge
+  Dumbbell Romanian Deadlift
+  Dumbbell Right Leg Offset Deadlift
+  Dumbbell Sumo Deadlift
+  Dumbbell Goblet Squat to Straight Arm Raise
+  Dumbbell Left Leg Offset Deadlift
+  Dumbbell Goblet Squat
+  Duck Walk
+  Dumbbell Reverse Alternating Lunge
+  Dumbbell Alternating Side Lunge
+  Dumbbell Diagonal Reverse Lunge
+  Dumbbell Goblet Squat Side Press
+  Dumbbell Overhead Forward Alternating Lunge
+  Dumbbell Underhand Lateral Raise
+  Dumbbell Squat and Drive
+  Dumbbell Flip Squat
+  Dumbbell Walking Lunge
+  Dumbbell Side Lunge with Touchdown
+  Dumbbell Squat and Twist Punch
+  Dumbbell Squat with Forward Punch
+  Dumbbell Reverse Lunge Press
+  Dumbbell Reverse Step Stretch
+  Dumbbell Lunge Swing
+  Elevação pélvica com barra no banco
+  Elevação de panturrilha
+  Forward Alternating Lunge
+  Frog Stretch
+  Foam Roller Hamstring Relaxation
+  Foam Roller Quad Relaxation
+  Foam Roller Left IT Band Relaxation
+  Foam Roller Right IT Band Relaxation
+  Foam Roller Left Adductor Relaxation
+  Foam Roller Right TFL Relaxation
+  Foam Roller Right Adductor Relaxation
+  Foam Roller Left TFL Relaxation
+  Fast Half Squat
+  Feet Together Reverse Step
+  Goblet Squat
+  Good Morning
+  Goblet Left Side Lunge
+  Goblet Forward Alternating Lunge
+  Goblet Right Side Lunge
+  Half Squat Side to Side
+  Half Squat Front to Back
+  Half Squat
+  Half Squat Side Leg Raise
+  High Knees
+  High Frequency Running in Place
+  Hack Squat
+  Inner Thigh Dynamic Stretch
+  Kneeling Left Iliopsoas Stretch
+  Kneeling Right Iliopsoas Stretch
+  Kneeling Left Calf Stretch
+  Kneeling Left Single Leg Romanian Deadlift
+  Kettlebell Sumo Deadlift
+  Kettlebell Goblet Squat
+  Kneeling Right Quadriceps Stretch
+  Kneeling Left Quadriceps Stretch
+  Knee Tuck Forward Bend
+  Levantamento terra
+  Levantamento terra com halteres
+  Levantamento terra com kettlebell
+  Levantamento olímpico
+  Left Thigh Front Stretch
+  Left Side Single Leg Deadlift
+  Left Leg Lunge
+  Left Side Bulgarian Split Squat
+  Left Side Dumbbell Lunge
+  Left Side Dumbbell Single Leg Romanian Deadlift
+  Left Single Leg Squat
+  Left Single Leg Half Squat
+  Left Simple Single Leg Romanian Deadlift
+  Left Single Leg Romanian Deadlift with Knee Raise
+  Left Dumbbell Bulgarian Split Squat
+  Left Inner Thigh Stretch
+  Left Lunge with Knee Raise
+  Left Touch Deadlift
+  Left Split Stretch
+  Left Single Leg Assisted Half Squat
+  Left Lunge Kick
+  Left Combo Lunge
+  Left Forward-Backward Lunge
+  Left Resistance Band Bulgarian Split Squat
+  Left Assisted Dumbbell Single Leg Deadlift
+  Left Dumbbell Lunge
+  Left Resistance Band Single Leg Deadlift
+  Left Dumbbell Single Leg Deadlift
+  Left Kettlebell Squat to Press
+  Lunge Pass Ball Right
+  Left Dumbbell Lunge Pass Ball
+  Left 180° Rotation Circle
+  Left Reverse Lunge with Knee Raise
+  Left Forward Lunge
+  Left Leg Circle
+  Landmine Romanian Deadlift
+  Left Half Side Lunge
+  Left Single Leg Half Squat Tap
+  Left Resistance Band Single Leg Tap Deadlift
+  Left Leg Star Drill
+  Left Pulse Lunge
+  Left Half Lunge Hold
+  Left Bottom Pause Side Lunge
+  Left Side Lunge
+  Left Side Lunge Hold
+  Left Half Side Lunge Hold
+  Left Single Leg Hop
+  Left Resistance Band Reverse Lunge
+  Left Resistance Band Reverse Lunge Press
+  Lunge Pass Ball Left
+  Left High Lunge Switch Jump
+  Overhead Barbell Squat
+  Polichinelo
+  Prone Resistance Band Leg Curl
+  Prone Stability Ball Alternating Leg Lift
+  Right Thigh Front Stretch
+  Right Side Lunge
+  Right Side Single Leg Deadlift
+  Right Side Bulgarian Split Squat
+  Reverse Alternating Lunge
+  Right Side Dumbbell Lunge
+  Right Lower Leg Stretch
+  Right Side Single Leg Romanian Deadlift
+  Right Single Leg Squat
+  Right Single Leg Lateral Squat
+  Right Single Leg Half Squat
+  Right Simple Single Leg Romanian Deadlift
+  Right Dumbbell Single Leg Romanian Deadlift
+  Right Inner Thigh Stretch
+  Right Single Leg Romanian Deadlift with Knee Raise
+  Right Dumbbell Bulgarian Split Squat
+  Right Leg Touch Deadlift
+  Right Single Leg Assisted Half Squat
+  Resistance Band Deadlift
+  Right Lunge Kick
+  Right Split Stretch
+  Right Lunge with Knee Raise
+  Resistance Band Squat
+  Right Reverse Lunge
+  Resistance Band Sumo Deadlift
+  Right Kettlebell Squat to Press
+  Right Dumbbell Lunge
+  Right Dumbbell Single Leg Deadlift
+  Right Dumbbell Side Knee Raise Crunch
+  Resistance Band Half Squat Lateral Walk
+  Right Forward Lunge
+  Right Resistance Band Bulgarian Split Squat
+  Right Assisted Dumbbell Single Leg Deadlift
+  Right Leg Star Drill
+  Right Combo Lunge
+  Resistance Band Box Squat
+  Right Resistance Band Single Leg Deadlift
+  Resistance Band Behind the Neck Squat
+  Right 180° Rotation Circle
+  Right Resistance Band Single Leg Tap Deadlift
+  Right Resistance Band Reverse Lunge
+  Right Dumbbell Lunge Pass Ball
+  Right Leg Circle
+  Right Half Side Lunge
+  Right Single Leg Half Squat Tap
+  Right Reverse Lunge with Side Knee Raise
+  Right Eccentric Explosive Lunge
+  Right Lunge Arm Swing
+  Right Half Lunge Hold
+  Right Lunge Hold
+  Rapid Jumps in Place
+  Right Single Leg Hop
+  Right Resistance Band Reverse Lunge Press
+  Right High Lunge Switch Jump
+  Right Single Leg Squat Hold
+  Saltos burpee
+  Squat
+  Sumo Squat
+  Supine Straight Leg Open-Close
+  Standing Alternating Leg Curl
+  Side-Lying Right Leg Lift
+  Side-Lying Left Leg Lift
+  Seated Inner Thigh Stretch
+  Side-Lying Left Leg Lift with Foot Touch
+  Squat Thrust
+  Seated Left Leg Stretch
+  Seated Right Leg Stretch
+  Squat with Alternating Straight Punch
+  Side-Lying Right Leg Lift with Foot Touch
+  Straddle Forward Bend Stretch
+  Single Leg Romanian Deadlift Touch Right
+  Single Leg Romanian Deadlift Touch Left
+  Squat with Alternating Leg Kick
+  Squat with Twist Punch
+  Side-Lying Right Leg Lift Hold
+  Side-Lying Left Leg Lift Hold
+  Supine Left Hamstring Stretch
+  Supine Right Hamstring Stretch
+  Side Lunge
+  Standing Quad Dynamic Stretch
+  Squat to Straight Arm Raise
+  Standing Left IT Band Stretch
+  Stability Ball Wall Sit
+  Squat with Forward Punch
+  Supine Left Hamstring Dynamic Stretch
+  Standing Right IT Band Stretch
+  Seated Fascia Ball Left Hamstring Relaxation
+  Stability Ball Left Warrior Balance
+  Supine Right Hamstring Dynamic Stretch
+  Supine Stability Ball Leg Curl
+  Stability Ball Two-Part Leg Curl
+  Stability Ball Right Leg Deadlift
+  Stability Ball Squat
+  Stability Ball Left Leg Deadlift
+  Triple Squat
+  Toe Touch Squat
+  Wall Sit
+  Wall Half Squat
+  Wall Mini Squat
+  Walking Lunges
+  Wall Supported Left Quadriceps Stretch
+  Wall Supported Right Quadriceps Stretch
+
+* Musculos do quadril
+  Agachamento com peso corporal
+  Agachamento frontal com braço reto
+  Agachamento com barra
+  Agachamento no smith
+  Avanço alternado
+  Alternating Knee Raise Squat
+  Alternating Side Lunge
+  Assisted Squat
+  Ab Wheel Glute Bridge
+  Alternating Lunge with Twist
+  Balanço com kettlebell
+  Breaststroke Extension
+  Banded Knee Crab Walk
+  Box Squat
+  Banded Glute Bridge Abduction
+  Barbell Straight Leg Deadlift
+  Barbell Romanian Deadlift
+  Banded Squat with Forward-Backward Movement
+  Banded Squat
+  Barbell Sumo Deadlift
+  Banded Squat with Knee Band
+  Banded Alternating Crab Walk
+  Barbell Forward Alternating Lunge
+  Banded Ankle Alternating Crab Walk
+  Barbell Front Squat
+  Barbell Reverse Alternating Lunge
+  Barbell Overhead Squat
+  Barbell Alternating Side Lunge
+  Barbell Left Bulgarian Split Squat
+  Barbell Box Squat
+  Barbell Bulgarian Split Squat
+  BOSU Ball Half Squat Rock
+  Barbell Good Morning
+  BOSU Ball Touchdown Squat
+  BOSU Ball Left Lunge
+  BOSU Ball Right Lunge
+  Cushion Squat
+  Cossack Squat
+  Chair Supported Half Squat
+  Deslizamento lateral
+  Dumbbell Squat
+  Diagonal Backward Lunge
+  Dumbbell Straight Leg Deadlift
+  Dumbbell Sumo Squat
+  Dumbbell Glute Bridge
+  Dumbbell Single Leg Deadlift
+  Dumbbell Deadlift
+  Dumbbell Thruster
+  Dumbbell Row Deadlift
+  Dumbbell Forward Alternating Lunge
+  Dumbbell Romanian Deadlift
+  Dumbbell Right Leg Offset Deadlift
+  Dumbbell Hip Thrust
+  Dumbbell Sumo Deadlift
+  Dumbbell Goblet Squat to Straight Arm Raise
+  Dumbbell Left Leg Offset Deadlift
+  Dumbbell Goblet Squat
+  Duck Walk
+  Dumbbell Reverse Alternating Lunge
+  Dumbbell Alternating Side Lunge
+  Dumbbell Diagonal Reverse Lunge
+  Dumbbell Goblet Squat Side Press
+  Dumbbell Overhead Forward Alternating Lunge
+  Dumbbell Underhand Lateral Raise
+  Dumbbell Squat and Drive
+  Dumbbell Flip Squat
+  Dumbbell Walking Lunge
+  Dumbbell Side Lunge with Touchdown
+  Dumbbell Squat and Twist Punch
+  Dumbbell Squat with Forward Punch
+  Dumbbell Reverse Lunge Press
+  Dumbbell Reverse Step Stretch
+  Dumbbell Lunge Swing
+  Dumbbell Hip Bridge Press
+  Elevação pélvica com barra no banco
+  Elevated Left Single Leg Glute Bridge
+  Forward Alternating Lunge
+  Fast Half Squat
+  Feet Together Reverse Step
+  Glute Bridge
+  Goblet Squat
+  Good Morning
+  Goblet Left Side Lunge
+  Goblet Forward Alternating Lunge
+  Goblet Right Side Lunge
+  Half Squat Side to Side
+  Half Squat Front to Back
+  Hip Dynamic Stretch
+  Half Squat
+  Half Squat Side Leg Raise
+  High Glute Bridge
+  High Knees
+  High Frequency Running in Place
+  Hack Squat
+  Kneeling Right Side Kickback
+  Kneeling Left Side Kickback
+  Kneeling Left Knee Lift
+  Kneeling Right Knee Lift
+  Kneeling Left Single Leg Romanian Deadlift
+  Kettlebell Sumo Deadlift
+  Kettlebell Goblet Squat
+  Kneeling Left Donkey Kick
+  Kneeling Right Donkey Kick
+  Knee Tuck Forward Bend
+  Levantamento terra
+  Levantamento terra com halteres
+  Levantamento terra com kettlebell
+  Levantamento olímpico
+  Left Side Hip Stretch
+  Left Side Lunge
+  Left Side Single Leg Deadlift
+  Left Leg Lunge
+  Left Side Bulgarian Split Squat
+  Left Leg Banded Clam Shell
+  Left Side Dumbbell Lunge
+  Left Side Dumbbell Single Leg Romanian Deadlift
+  Left Single Leg Glute Bridge
+  Left Single Leg Squat
+  Left Single Leg Half Squat
+  Left Glute Bridge with Leg Swing
+  Left Simple Single Leg Romanian Deadlift
+  Left Single Leg Romanian Deadlift with Knee Raise
+  Left Dumbbell Bulgarian Split Squat
+  Left Lunge with Knee Raise
+  Left Touch Deadlift
+  Left Single Leg Assisted Half Squat
+  Left Lunge Kick
+  Left Combo Lunge
+  Left Forward-Backward Lunge
+  Left Resistance Band Bulgarian Split Squat
+  Left Assisted Dumbbell Single Leg Deadlift
+  Left Dumbbell Lunge
+  Left Resistance Band Single Leg Deadlift
+  Left Dumbbell Single Leg Deadlift
+  Left Kettlebell Squat to Press
+  Lunge Pass Ball Right
+  Left Dumbbell Lunge Pass Ball
+  Left 180° Rotation Circle
+  Left Reverse Lunge with Knee Raise
+  Left Forward Lunge
+  Left Leg Circle
+  Landmine Romanian Deadlift
+  Left Half Side Lunge
+  Left Single Leg Half Squat Tap
+  Left Resistance Band Single Leg Tap Deadlift
+  Left Leg Star Drill
+  Left Pulse Lunge
+  Left Half Lunge Hold
+  Left Bottom Pause Side Lunge
+  Left Side Lunge
+  Left Side Lunge Hold
+  Left Half Side Lunge Hold
+  Left Resistance Band Reverse Lunge
+  Left Resistance Band Reverse Lunge Press
+  Lunge Pass Ball Left
+  Left High Lunge Switch Jump
+  Músculos do quadril
+  Overhead Barbell Squat
+  Prone V-Up
+  Prone Diagonal Stretch
+  Prone Alternating Punch
+  Prone Alternating Leg Lift
+  Prone Alternating Knee Lift
+  Prone Right Leg Lift
+  Prone Alternating Straight Leg Lift
+  Prone Stability Ball Alternating Leg Lift
+  Right Side Hip Stretch
+  Right Side Lunge
+  Right Side Single Leg Deadlift
+  Right Side Bulgarian Split Squat
+  Right Leg Banded Clam Shell
+  Reverse Alternating Lunge
+  Right Side Dumbbell Lunge
+  Right Side Single Leg Romanian Deadlift
+  Right Single Leg Squat
+  Right Single Leg Glute Bridge
+  Right Single Leg Half Squat
+  Right Glute Bridge with Leg Swing
+  Right Simple Single Leg Romanian Deadlift
+  Right Dumbbell Single Leg Romanian Deadlift
+  Right Single Leg Romanian Deadlift with Knee Raise
+  Right Dumbbell Bulgarian Split Squat
+  Right Leg Touch Deadlift
+  Right Single Leg Assisted Half Squat
+  Resistance Band Deadlift
+  Right Lunge Kick
+  Right Lunge with Knee Raise
+  Resistance Band Squat
+  Right Reverse Lunge
+  Resistance Band Sumo Deadlift
+  Right Single Leg Hip Thrust
+  Right Kettlebell Squat to Press
+  Right Dumbbell Lunge
+  Right Dumbbell Single Leg Deadlift
+  Right Dumbbell Side Knee Raise Crunch
+  Resistance Band Half Squat Lateral Walk
+  Right Forward Lunge
+  Right Resistance Band Bulgarian Split Squat
+  Right Assisted Dumbbell Single Leg Deadlift
+  Right Leg Star Drill
+  Right Combo Lunge
+  Resistance Band Box Squat
+  Right Resistance Band Single Leg Deadlift
+  Resistance Band Behind the Neck Squat
+  Right 180° Rotation Circle
+  Right Resistance Band Single Leg Tap Deadlift
+  Right Resistance Band Reverse Lunge
+  Right Dumbbell Lunge Pass Ball
+  Right Leg Circle
+  Right Half Side Lunge
+  Right Single Leg Half Squat Tap
+  Right Reverse Lunge with Side Knee Raise
+  Right Eccentric Explosive Lunge
+  Right Lunge Arm Swing
+  Right Half Lunge Hold
+  Right Lunge Hold
+  Right Resistance Band Reverse Lunge Press
+  Right High Lunge Switch Jump
+  Right Single Leg Squat Hold
+  Squat
+  Superman Pose
+  Sumo Squat
+  Static Glute Bridge
+  Superman Hold
+  Side-Lying Left Leg Raise
+  Side-Lying Left Clam Shell
+  Side-Lying Right Clam Shell
+  Standing Left Side Leg Raise
+  Side-Lying Right Leg Raise
+  Standing Right Side Leg Raise
+  Standing Right Leg Lift
+  Side-Lying Left Leg Lift with Foot Touch
+  Squat Thrust
+  Side-Lying Left Rear Leg Lift
+  Squat with Alternating Straight Punch
+  Supine Right Glute Stretch
+  Side-Lying Right Leg Lift with Foot Touch
+  Seated Forward Bend Left Glute Stretch
+  Supine Left Glute Stretch
+  Side-Lying Right Rear Leg Lift
+  Single Leg Romanian Deadlift Touch Right
+  Single Leg Romanian Deadlift Touch Left
+  Side-Lying Right Banded Clam Shell
+  Squat with Alternating Leg Kick
+  Squat with Twist Punch
+  Side-Lying Left Knee Raise
+  Standing Left Rear Leg Lift
+  Side-Lying Right Knee Raise
+  Seated Resistance Band Hip Abduction
+  Side-Lying Left Front Leg Raise
+  Side-Lying Right Front Leg Raise
+  Side-Lying Left Leg Circle
+  Side-Lying Right Leg Circle
+  Side Lunge
+  Squat to Straight Arm Raise
+  Supine Exercise Ball Support
+  Squat with Forward Punch
+  Stability Ball Left Warrior Balance
+  Stability Ball Two-Part Leg Curl
+  Stability Ball Right Leg Deadlift
+  Stability Ball Squat
+  Stability Ball Left Leg Deadlift
+  Triple Squat
+  Toe Touch Squat
+  Walking Lunges
+  Wall Supported Right Hip Stretch
+  Wall Supported Left Glute Stretch
+
+* Musculos do braço
+  Alternating Single Leg Plank Push-Up
+  Alternating Resistance Band Curl
+  Alternating Resistance Band Hammer Curl
+  Alligator Crawl
+  Archer Push-Up
+  Burpees
+  Barra fixa (pegada pronada)
+  Barra fixa
+  Barra fixa perfeita (pegada pronada)
+  Bent Over Dumbbell Tricep Extension
+  Basic Push-Up
+  Barbell Curl
+  Bent Over Paused Tricep Extension
+  Behind the Neck Dumbbell Tricep Extension
+  Bent Over Left Dumbbell Tricep Extension
+  Bent Over Wide Row with Arm Extension
+  Bent Over Right Dumbbell Tricep Extension
+  Behind the Neck Left Dumbbell Tricep Extension
+  Behind the Neck Right Dumbbell Tricep Extension
+  Bent Over Dumbbell Rotational Row
+  Barbell Plate Overhand Curl
+  Barbell Spider Curl
+  Corda naval
+  Crucifixo invertido no TRX
+  Cable Supine Curl
+  Desenvolvimento de ombro
+  Desenvolvimento de ombros com halteres
+  Desenvolvimento de ombros com halteres com rotação
+  Desenvolvimento de ombros com barra
+  Dumbbell Static Curl
+  Dumbbell Alternating Curl
+  Decline Diamond Push-Up
+  Dumbbell Wrist Curl
+  Dumbbell Hammer Curl
+  Dumbbell Glute Bridge Press
+  Dumbbell Forearm Rotation
+  Dumbbell Half Curl
+  Dumbbell Spider Curl
+  Decline Push-Up on Exercise Ball
+  Dumbbell Front Raise Curl Combo
+  Dip
+  Decline Push-Up
+  Dumbbell Floor Press
+  Dumbbell Floor Diamond Press
+  Dumbbell Diamond Press
+  Diamond Push-Up
+  Extensão aérea de tríceps
+  Extensão de tríceps deitado
+  Extensão de tríceps supinadas com halteres
+  Extensão de tríceps supinadas
+  Extensão de tríceps com halteres (esquerdo) Extensão de tríceps sentado inclinado com halteres
+  Extensões de tríceps com halteres (direito)
+  Extensão de tríceps no TRX
+  Empurrar em três pontos de apoio
+  EZ-Bar Curl
+  Elevated Push-Up
+  Eccentric Pull-Up
+  EZ-Bar Reverse Curl
+  EZ-Bar Narrow Grip Curl
+  Exercise Ball Push-Up
+  Flexão
+  Flexão perfeita
+  Flexão com joelhos apoiados
+  Foam Roller Right Triceps Relaxation
+  Foam Roller Left Arm Tricep Release
+  Flat Bench Press
+  Hula Hoop Tricep Extension
+  Horizontal Hammer Curl
+  Half Push-Up
+  Incline Dumbbell Curl
+  Incline Supine Dumbbell Hammer Curl
+  Incline Push-Up
+  Knee Bent Supine Bridge
+  Kneeling Push-Up
+  Kneeling Alternating Arm Lift
+  Kneeling Half Push-Up
+  Kneeling Explosive Push-Up
+  Kneeling Alternating Push-Up
+  Kneeling Jack Push-Up
+  Kneeling Sliding Push-Up
+  Kneeling Release Push-Up
+  Left Arm Stretch
+  Left Side Dumbbell Curl
+  Left Resistance Band Chest Press
+  Left Resistance Band Curl
+  Left Dumbbell Elbow Fixed Hammer Curl
+  Left Resistance Band Single Arm Raise
+  Left Dumbbell Elbow Fixed Curl
+  Músculos frontais da parte superior do braço
+  Músculos traseiros da parte superior do braço
+  Músculos frontais do antebraço
+  Músculos traseiros do antebraço
+  Narrow Grip Push-Up
+  Puxada alta
+  Plank Right Side Dumbbell Tricep Extension
+  Plank Left Side Dumbbell Tricep Extension
+  Remada inclinada
+  Remada inclinada com halteres
+  Remada curvada com halteres
+  Remada curvada com barra
+  Remada unilateral com halteres (esquerdo)
+  Remada unilateral com halteres (direito)
+  Rosca de bíceps
+  Rosca de bíceps com halteres
+  Rosca martelo com desenvolvimento
+  Rosca de bíceps com barra
+  Right Arm Stretch
+  Resistance Band Chest Press
+  Resistance Band Curl
+  Reverse Grip Pull-Up
+  Resistance Band High Pull Down
+  Resistance Band Scarf Tricep Pressdown
+  Right Dumbbell Concentration Curl
+  Resistance Band Overhead Tricep Extension
+  Resistance Band Decline Diamond Push-Up
+  Right Banded Single Arm Raise
+  Right Resistance Band Chest Press
+  Resistance Band Weighted Push-Up
+  Resistance Band Left Bent Over Tricep Extension
+  Resistance Band Narrow Push-Up
+  Right Dumbbell Elbow Fixed Curl
+  Right Resistance Band Curl
+  Resistance Band Diamond Push-Up
+  Right Dumbbell Elbow Fixed Hammer Curl
+  Resistance Band Static Lunge Curl
+  Resistance Band Lunge Curl
+  Resistance Band Decline Push-Up
+  Resistance Band Lunge Half Curl
+  Resistance Band Assisted Pull-Up
+  Resistance Band Push-Up
+  Resistance Band Chest Press
+  Release Push-Up
+  Supino
+  Saltos burpee
+  Supino com halteres
+  Supino no smith
+  Supino inclinado com halteres
+  Supino inclinado com barra
+  Supino declinado com halteres
+  Supino declinado com barra
+  Supino no cabo com banco inclinado
+  Supino inclinado no smith
+  Supino declinado no smith
+  Supino inclinado na máquina
+  Supino declinado na máquina
+  Supino reto na máquina
+  Straight Leg Supine Bridge
+  Seated Overhead Dumbbell Tricep Extension
+  Sphinx Push-Up
+  Standing Resistance Band Hammer Curl
+  Supine Dumbbell Tricep Extension
+  Sliding Deep Push-Up
+  Seated Resistance Band Chest Press
+  Supine Barbell Skull Crusher
+  Supine Resistance Band Tricep Extension
+  Seated Behind the Neck Left Dumbbell Tricep Extension
+  Seated Resistance Band Bicep Curl
+  Seated Behind the Neck Right Dumbbell Tricep Extension
+  Seated Resistance Band Bent Over Tricep Extension
+  Supine Bent Knee Bridge
+  Standing Resistance Band Hammer Curl
+  Seated Resistance Band Behind the Neck Tricep Extension
+  Seated Resistance Band Alternating Chest Press
+  Supine Resistance Band Curl
+  Single Dumbbell Curl to Front Raise Combo
+  Smith Machine Incline Bench Press
+  Split Stance Push-Up
+  Side Push-Up
+  Spider Push-Up
+  Seated Chest Press Machine
+  Tríceps na roldana
+  Tríceps francês sentado
+  Tríceps na roldana alta com barra V
+  Tríceps na roldana com corda
+  Tríceps na roldana com pegada invertida
+  Voadores com halteres
+  Wide Push-Up
+  Wide-Grip Pull-Up
+  Supine Weighted Glute Bridge
+  Smith Machine Incline Bench Press
+  Split Stance Push-Up
+  Wall Push-Up
+
+* Musculos inferiores das costas
+  Ab Wheel Baby Pose
+  Assisted Back Extension
+  Balanço com kettlebell
+  Breaststroke Extension
+  Back Extension
+  Back Squeeze Pen
+  Crab Twist
+  Exercise Ball Back Extension
+  Foam Roller Lower Back Relaxation
+  Fascia Ball Left Side Waist Relaxation
+  Fascia Ball Right Side Waist Relaxation
+  High Crab Walk
+  Kneeling Back Stretch
+  Levantamento terra
+  Levantamento terra com halteres
+  Levantamento terra com kettlebell
+  Lower Back Dynamic Stretch
+  Low Crab Walk
+  Músculos da parte inferior das costas
+  Massage Stick Waist Relaxation
+  Prone Back Extension
+  Prone V-Up
+  Prone Diagonal Stretch
+  Prone Back Extension with Twist
+  Prone Alternating Punch
+  Prone Pelvic Tilt Exercise
+  Reverse Ab Wheel Rollout
+  Right Side Waist Stretch
+  Reverse Plank Alternating Foot Touch
+  Superman Pose
+  Superman Hold
+  Seated Right Side Waist Stretch
+  Static Back Extension
+  Stability Ball Static Back Extension
+  Supine Pelvic Tilt Exercise
+  Triceps Dip
+  Waist Stretch
+  Wall Stand
+  Weighted Back Extension
+
+* Musculos superiores das costas
+  Ab Wheel Baby Pose
+  Assisted Back Extension
+  Barra fixa (pegada pronada)
+  Barra fixa
+  Barra fixa perfeita (pegada pronada)
+  Balanço com kettlebell unilateral (direito)
+  Balanço com kettlebell unilateral (esquerdo)
+  Breaststroke Extension
+  Back Extension
+  Back Squeeze Pen
+  Bent Over Pronated Barbell Row
+  Breaststroke Arm Pull
+  Bent Over Right Dumbbell Row
+  Bent Over W-Stretch
+  Bent Over Left Dumbbell Row
+  Bent Over Hammer Dumbbell Row
+  Bent Over Dumbbell Row with Tricep Extension
+  Bent Over Y-Stretch
+  Bent Over YW-Stretch
+  Bent Over Reverse Grip Dumbbell Row
+  Bent Over T-Stretch
+  Bent Over TW-Stretch
+  Bent Over A-Stretch
+  Bent Over I-Stretch
+  Bent Over Upper Back Stretch
+  Bent Over Dumbbell External Rotation Row
+  Bent Over YT-Stretch
+  Bent Over Dumbbell Kickback
+  Bent Over YTW-Stretch
+  Bent Over Left Single Arm Resistance Band Row
+  Bent Over Right Single Arm Resistance Band Row
+  Behind the Back Barbell Shrug
+  Bent Over Left Resistance Band Row
+  Bent Over Resistance Band W-Stretch
+  Bent Over Resistance Band Y-Stretch
+  Bent Over YA-Stretch
+  Bent Over Dynamic Back Stretch
+  Bent Over Wide Grip Barbell Row
+  Bent Over Resistance Band A-Stretch
+  Crucifixo invertido no TRX
+  Crab Twist
+  Chair Supported Shoulder Shrug
+  Dumbbell Row Deadlift
+  Elevação lateral
+  Elevação lateral com elástico
+  Elevação lateral com halteres
+  Elevação frontal com halteres
+  Encolhimento de ombros com barra
+  Encolhimento de ombros com halteres
+  Exercise Ball Back Extension
+  Eccentric Pull-Up
+  Foam Roller Lower Back Relaxation
+  Fascia Ball Left Side Waist Relaxation
+  Fascia Ball Right Side Waist Relaxation
+  Foam Roller Upper Back Release
+  Foam Roller Left Back Release
+  Foam Roller Right Back Release
+  High Crab Walk
+  High Resistance Band Row
+  Incline Bent Over Dumbbell Row
+  Incline Prone Dumbbell Shrug
+  Kneeling Back Stretch
+  Kneeling Right Back Stretch
+  Kneeling Left Back Stretch
+  Levantamento olímpico
+  Lower Back Dynamic Stretch
+  Low Crab Walk
+  Left Neck Stretch
+  Left Resistance Band Shrug
+  Músculos da parte superior das costas
+  Músculo latíssimo do dorso
+  Massage Stick Waist Relaxation
+  Pulldown de braço reto
+  Puxada alta
+  Puxada de braço reto com corda
+  Prone Back Extension
+  Prone V-Up
+  Prone Diagonal Stretch
+  Prone Back Extension with Twist
+  Prone Alternating Punch
+  Prone Pelvic Tilt Exercise
+  Prone TW-Stretch
+  Prone Right Dumbbell Row
+  Prone Left Dumbbell Row
+  Prone YW-Stretch
+  Prone Y-Stretch
+  Prone A-Stretch
+  Prone YTW-Stretch
+  Prone W-Stretch
+  Prone I-Stretch
+  Prone YA-Stretch
+  Prone Resistance Band Row
+  Prone YT-Stretch
+  Remada inclinada
+  Remada inclinada com halteres
+  Remada curvada com halteres
+  Remada curvada com barra
+  Remada unilateral com halteres (esquerdo)
+  Remada unilateral com halteres (direito)
+  Remada sentado
+  Remada alta
+  Remada alta com halteres
+  Remada na barra T
+  Remada alta inclinada com halteres
+  Remada aberta na máquina
+  Remada sentado com pegada V
+  Reverse Ab Wheel Rollout
+  Reverse Grip Pull-Up
+  Resistance Band Assisted Pull-Up
+  Reverse Plank Alternating Foot Touch
+  Right Neck Stretch
+  Resistance Band Straight Arm Pulldown
+  Resistance Band High Row
+  Resistance Band Behind the Neck Stretch
+  Resistance Band Shrug
+  Right Resistance Band Shrug
+  Superman Pose
+  Superman Hold
+  Seated Right Side Waist Stretch
+  Static Back Extension
+  Stability Ball Static Back Extension
+  Supine Pelvic Tilt Exercise
+  Shrug and Depress
+  Seated Resistance Band Row
+  Standing Resistance Band Row
+  Seated Resistance Band High Pull
+  Supine Barbell Underhand Row
+  Seated Left Rear Neck Stretch
+  Scapular Protraction and Retraction
+  Seated Right Rear Neck Stretch
+  Supine Arm Pull
+  Seated Cable Underhand Row
+  Scapular Retraction Pull-Up
+  Standing Left Back Stretch
+  Single Arm Resistance Band High Pull
+  Standing Right Back Stretch
+  Seated Straight Leg Cable Row
+  Seated Left Neck Stretch
+  Seated Upper Back Stretch
+  Seated Resistance Band High Row
+  Seated Alternating Resistance Band Pulldown
+  Seated Left Resistance Band High Pulldown
+  Seated Right Neck Stretch
+  Seated Left Neck Massage
+  Seated Reverse Grip Straight Leg Cable Row
+  Standing Resistance Band YW-Stretch
+  Seated Right Resistance Band High Pulldown
+  Seated Reverse Grip Bent Leg Cable Row
+  Seated Right Neck Massage
+  Standing Left Resistance Band Row
+  Standing Right Resistance Band Row
+  Stability Ball A-Stretch
+  Stability Ball YTW-Stretch
+  Single Arm Landmine Row
+  Stability Ball T-Stretch
+  Stability Ball Y-Stretch
+  Stability Ball YW-Stretch
+  Stability Ball I-Stretch
+  Stability Ball YA-Stretch
+  Stability Ball W-Stretch
+  Stability Ball TW-Stretch
+  Stability Ball YT-Stretch
+  Triceps Dip
+  T-Bar Row
+  Upper Back Stretch
+  Waist Stretch
+  Wall Stand
+  Weighted Back Extension
+  Wide-Grip Pull-Up
+  Wall Arm Pull
+
+* Musculos abdominais
+  90-Degree Crunch
+  90° Crunch Toe Touch
+  Abdominal com retenção
+  Abdominal com toque no joelho
+  Abdominal em V (V-up)
+  Abdominal no cabo
+  Ab Activation
+  Ab Stretch
+  Alternating Shoulder Tap Plank
+  Alternating Knee Raise Crunch
+  Arm Swing Plank
+  Ab Wheel Plank
+  Ab Wheel Mountain Climbers
+  Alligator Crawl
+  Alternating Side Foot Touch
+  Ab Wheel Side Step
+  Alternating Side Knee Touch
+  Alternating Stability Ball Diagonal Crunch
+  Bicycle Crunch
+  Basic Russian Twist
+  Bear Kick
+  Bear Crawl
+  Bench Straight Leg Crunch
+  Barbell Plate Sicilian Crunch
+  Barbell Plate Plank Crunch
+  Bear Kickback
+  BOSU Ball Seated Ab Crunch
+  BOSU Ball Ab Stretch
+  BOSU Ball Seated Bicycle
+  BOSU Ball Seated Leg Raise
+  Bent Knee Stability Ball Reverse Crunch
+  BOSU Ball Right Side Plank with Arm Raise
+  Bear Squat
+  BOSU Ball Right Side Plank
+  BOSU Ball Left Side Plank with Arm Raise
+  BOSU Ball Left Side Plank Knee Raise
+  BOSU Ball Right Side Plank Knee Raise
+  BOSU Ball Left Side Plank
+  Crunch
+  Crunch with Punch
+  Crunch with Twist
+  Cable Seated Crunch
+  Cable Supine Leg Extension
+  Crunch with Right Knee to Foot Touch
+  Cable Straight Leg V-Support
+  Cable Reverse Crunch
+  Crunch with Left Knee to Foot Touch
+  Cable 90° Crunch
+  Crab Twist
+  Cable Knee Tuck V-Support
+  Crawling Twist
+  Dynamic Plank
+  Dumbbell Crunch
+  Dead Bug
+  Diagonal Dynamic Plank
+  Dumbbell Russian Twist
+  Decline Crunch
+  Decline Reverse Crunch
+  Dumbbell Sicilian Crunch
+  Diagonal Plank Crunch
+  Dumbbell Supine Single Leg V-Up
+  Dumbbell Assisted V-Leg Raise
+  Dumbbell Windmill Crunch
+  Decline Diagonal Crunch
+  Dumbbell V-Support Twist
+  Dumbbell Plank Twist
+  Extensão de tríceps no TRX (Exercício que veio de outro tópico)
+  Exercise Ball Ab Stretch
+  Four-Point Ab Wheel
+  Fitness Bench Crunch
+  Forward-Backward Cat Crawl
+  Forward and Backward Bear Crawl
+  Fast Plank Rotation Kick
+  Four-Point Front and Back Slide
+  Giro russo
+  Gorilla Crawl
+  Hula Hoop Overhead Twist
+  High Crab Walk
+  High Resistance Band Left Crunch
+  High Resistance Band Right Crunch
+  In-Place Bear Crawl
+  Inchworm to Tuck Jump
+  Inchworm with Back Extension
+  Kneeling Ab Wheel Rollout
+  Knee Tuck
+  Knee Touch Crunch
+  Knee Hug Crunch
+  Kneeling Plank
+  Knee Bent V-Up
+  Kneeling Left Iliopsoas Stretch
+  Kneeling Plank with Rotation
+  Kneeling Half Ab Wheel Rollout
+  Kneeling Ab Wheel Plank
+  Kneeling Left Diagonal Bird Dog
+  Kneeling Right Diagonal Bird Dog
+  Kneeling Resistance Band Crunch
+  Kneeling Stability Ball Saw Plank
+  Kneeling Stability Ball Push-Pull
+  Leg Raise
+  Left Side Plank
+  Left Side Knee Raise Crunch
+  Left Bent Knee Side Plank
+  Left Straight Arm Side Plank
+  Left Side Plank with Hip Lift
+  Left Side-Lying V-Up
+  Left Hand Bird Dog Stretch
+  Left Side Waist Stretch
+  Left Dumbbell Windmill
+  Left Side Wall Ab Stretch
+  Left Resistance Band Single Arm Tricep Extension (Exercício que veio de outro tópico)
+  Left Barbell Plate Side Raise
+  Left Single Leg V-Up
+  Left Dumbbell Side Knee Raise Crunch
+  Left Downward Dog Ab Crunch
+  Left Resistance Band Side Crunch
+  Left Oblique Stretch
+  Left Dumbbell Low Woodchop
+  Left Standing Woodchop
+  Left Bent Knee Crunch
+  Left Diagonal Bird Dog
+  Left Roman Chair Side Crunch
+  Leopard Crawl
+  Left V-Up
+  Left Standing Dumbbell Lateral Raise
+  Left Side Plank Toe Touch
+  Left Resistance Ball Twist
+  Left Resistance Band High Woodchop
+  Left Lunge Side Arm Raise
+  Left Weighted Roman Chair Side Crunch
+  Left Stability Ball Low Woodchop
+  Low Crab Walk
+  Left Stability Ball Diagonal Crunch
+  Left Dumbbell Turkish Get-Up
+  Left Lunge Woodchop Twist
+  Left-Hand Stability Ball Plank
+  Prancha
+  Plank Alternating Leg Raise
+  Plank with Hip Twist
+  Plank with Rotation
+  Prone Knee Lift
+  Plank Hip Raise
+  Plank with Side Knee Raise
+  Plank with Alternating Hand Raise
+  Plank with Leg Step Out
+  Plank with Alternating Knee Touch
+  Plank with Knee to Opposite Foot Touch
+  Plank with Alternating Leg Lift
+  Prone Pelvic Tilt Exercise
+  Plank Elbow to Ground
+  Plank with Alternating Hand to Foot Touch
+  Plank Leg Step Out
+  Plank Knee to Donkey Kick
+  Plank Rotation to Foot Touch
+  Partial Decline Crunch
+  Plank Rotation to Kick
+  Plank Forward Walk
+  Plank Bent Knee Reverse Crunch
+  Prone Step-Up Hip Raise
+  Plank Rotation
+  Prone Stability Ball Z-Crunch
+  Prone Stability Ball Jack Plank
+  Prone Alternating Step and Twist
+  Plank Reverse Bent Knee Crunch Leg Push
+  Peak Contraction Sicilian Crunch
+  Prone Stability Ball Crawl
+  Quick Sit-Up
+  Quadruped
+  Quick Bicycle Crunch
+  Quick Russian Twist Reverse Knee Tuck Crunch
+  Right Side Plank
+  Reverse Crunch with Leg Lift
+  Reverse Crunch
+  Right Side Knee Raise Crunch
+  Right Bent Knee Side Plank
+  Right Straight Arm Side Plank
+  Right Side Plank with Hip Lift
+  Right Side-Lying V-Up
+  Right Hand Bird Dog Stretch
+  Right Side Waist Stretch
+  Resistance Band Russian Twist
+  Right Barbell Plate Side Raise
+  Resistance Band Upper Body Dynamic Stretch
+  Right Side Wall Ab Stretch
+  Right Dumbbell Windmill
+  Resistance Band Plank Rotation
+  Resistance Band 90° Crunch
+  Right Dumbbell Low Woodchop
+  Right Bent Knee Crunch
+  Right Standing Woodchop
+  Right Dumbbell Side Knee Raise Crunch
+  Reverse Plank Alternating Foot Touch
+  Reverse Plank Bicycle
+  Right Resistance Band Side Crunch
+  Right Oblique and Internal Oblique Stretch
+  Right Downward Dog Ab Crunch
+  Resistance Band Reverse Crunch
+  Right Leg V-Up
+  Right Resistance Band High Woodchop
+  Right Single Leg V-Up
+  Resistance Band Reverse Bent Knee Crunch
+  Right Resistance Band Single Arm Supported Tricep Extension (Exercício que veio de outro tópico)
+  Resistance Band Supine Rope Climb
+  Resistance Band Sicilian Crunch
+  Right Roman Chair Side Crunch
+  Resistance Band Toe Touch
+  Right Standing Dumbbell Lateral Raise
+  Right Side Plank Toe Touch
+  Right Resistance Band Twist
+  Right Lunge Side Arm Raise
+  Right Stability Ball Diagonal Crunch
+  Resistance Band Knee Touch
+  Right Standing Dumbbell Woodchop
+  Right-Hand Stability Ball Plank
+  Right Stability Ball Low Woodchop
+  Reverse Bent Knee Crunch Tap
+  Right Dumbbell Turkish Get-Up
+  Right Lunge Woodchop Twist
+  Right Weighted Roman Chair Side Crunch
+  Slow Sit-Up
+  Supine Bicycle
+  Single Leg V-Up
+  Sicilian Crunch
+  Supine Alternating Leg Raise
+  Side-Lying Left Crunch
+  Side-Lying Right Crunch
+  Supine Alternating Toe Touch
+  Straight Arm Plank
+  Supine Straight Leg Hold
+  Supported Side Knee Raise
+  Slow Reverse Crunch
+  Side-Lying Left Crunch with Leg Lift
+  Side-Lying Right Crunch with Leg Lift
+  Supine Alternating Diagonal Wood Chop
+  Saw Plank
+  Straight Leg Partial Reverse Crunch
+  Supine Alternating Partial Leg Lift
+  Supine Windmill
+  Single Leg Bent Knee V-Up
+  Sliding Plank
+  Side-Lying Left Assisted Crunch
+  Superman Plank
+  Seated Scissor Kick
+  Supine Bent Knee Twist
+  Side-Lying Right Assisted Crunch
+  Standing Ab Wheel Split Leg Rollout
+  Supine Straight Leg Raise
+  Supine Leg Extension
+  Standing Left External Oblique Stretch
+  Single Leg V-Up with Hip Lift
+  Simple Dead Bug
+  Supine Pelvic Tilt Exercise
+  Standing Right External Oblique Stretch
+  Supine Windshield Wipers
+  Seated Bent Knee V-Up
+  Standing Side Bend
+  Supine Alternating Diagonal Crunch
+  Standing Trunk Rotation
+  Supine Static V-Support
+  Seated Weighted Bent Knee V-Up
+  Supine Fast Criss-Cross Leg Raise
+  Stability Ball Plank
+  Supine Stability Ball Pass V-Up
+  Supine Partial V-Up
+  Supine Bent Knee 90° Resistance Band Ab Activation
+  Simple Barbell Plate Russian Twist
+  Simple Dumbbell Russian Twist
+  Stability Ball Straight Leg Reverse Crunch
+  Standing Resistance Band Crunch
+  Supine Space Walk
+  Supine Stability Ball Figure 8 Crunch
+  Stability Ball Straight Arm Plank
+  Suspension Trainer Plank
+  Supine Straight Leg 90° Resistance Band Ab Activation
+  Stability Ball Sicilian Crunch
+  Suspension Trainer Prone Knee Tuck
+  Supine Stability Ball Twist
+  Ski Swing
+  Standing Stability Ball Saw Plank
+  Stability Ball Twist Crunch with Bent Knees
+  Supine Stability Ball T-Twist
+  Supine Resistance Band Woodchop
+  Suspension Trainer Left Side Plank
+  Suspension Trainer Right Side Plank
+  Toe Touch V-Up
+  Triceps Dip (Exercício que veio de outro tópico)
+  Twisted Crunch with Leg Raise
+  Twisted Crunch with Diagonal Leg Raise
+  Twisted Crunch with Right Leg Raise
+  V-Sit Leg Raise
+  V-Sit Hold
+  V-Sit Hold with Twist
+  V-Sit Hold Against Resistance
+  Vacuum Exercise
+  V-Leg Circles
+  V-Position Stability Ball Static Support
+  Wall Stand
+  Woodchopper Crunch
+  Yoga Mat Assisted Crunch
+
+* Musculos peitorais
+  Alternating Single Leg Plank Push-Up
+  Archer Push-Up
+  Basic Push-Up
+  Corda naval
+  Crucifixo no voador
+  Crucifixo na polia baixa
+  Crucifixo no crossover
+  Chest Expansion
+  Cross Support
+  Chest Stretch
+  Decline Diamond Push-Up
+  Dumbbell Glute Bridge Press
+  Decline Push-Up on Exercise Ball
+  Dive Bomber Push-Up
+  Dip
+  Decline Push-Up
+  Dumbbell Floor Fly
+  Dumbbell Floor Press
+  Dumbbell Floor Diamond Press
+  Dumbbell Hip Bridge Press
+  Dumbbell Diamond Press
+  Diamond Push-Up
+  Empurrar em três pontos de apoio
+  Elevated Push-Up
+  Exercise Ball Push-Up
+  Flexão
+  Flexão perfeita
+  Flexão com joelhos apoiados
+  Flat Bench Press
+  Half Push-Up
+  Horizontal Chest Fly
+  Incline Hammer Dumbbell Fly
+  Incline Reverse Grip Dumbbell Bench Press
+  Incline Push-Up
+  Kneeling Push-Up
+  Kneeling Alternating Arm Lift
+  Kneeling Half Push-Up
+  Kneeling Explosive Push-Up
+  Kneeling Alternating Push-Up
+  Kneeling Jack Push-Up
+  Kneeling Sliding Push-Up
+  Kneeling Release Push-Up
+  Left Resistance Band Chest Press
+  Músculos do tórax
+  Narrow Grip Push-Up
+  Pike Push-Up
+  Resistance Band Decline Diamond Push-Up
+  Right Resistance Band Chest Press
+  Resistance Band Weighted Push-Up
+  Resistance Band Narrow Push-Up
+  Resistance Band Diamond Push-Up
+  Resistance Band Decline Push-Up
+  Resistance Band Push-Up
+  Resistance Band Chest Fly
+  Resistance Band Chest Press
+  Release Push-Up
+  Supino
+  Saltos burpee
+  Supino com halteres
+  Supino no smith
+  Supino inclinado com halteres
+  Supino inclinado com barra
+  Supino declinado com halteres
+  Supino declinado com barra
+  Supino no cabo com banco inclinado
+  Supino inclinado no smith
+  Supino declinado no smith
+  Supino inclinado na máquina
+  Supino declinado na máquina
+  Supino reto na máquina
+  Sphinx Push-Up
+  Sliding Deep Push-Up
+  Seated Resistance Band Chest Press
+  Seated Resistance Band Alternating Chest Press
+  Smith Machine Incline Bench Press
+  Split Stance Push-Up
+  Swan Chest Fly
+  Small Dumbbell Hip Bridge Support Fly
+  Scorpion Demonstration
+  Supine Dumbbell Pullover
+  Side Push-Up
+  Spider Push-Up
+  Seated Chest Press Machine
+  Voadores inclinados com halteres
+  Voadores declinados com halteres
+  Voadores de peito
+  Voadores no cabo com banco inclinado
+  Wide Push-Up
+  Wall Push-Up

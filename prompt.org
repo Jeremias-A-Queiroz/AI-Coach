@@ -1,0 +1,81 @@
+Favor ler detalhadamente e integrar todo o conteúdo do diretório
+=/jeremias/src/IA-Coach/zepp-data/*=
+
+Lá constam dados detalhados coletados pelo aplicativo Zepp através do
+meu Amazfit T-Rex 3.
+
+Com base na correlação das telemetrias (Sono, FC, Stress, Atividade e Metas),
+fatore um **diagnóstico** detalhado da minha rotina de saúde atual e **tendências**
+de médio prazo.
+
+Meu objetivo a curto prazo é ficar com meu peso abaixo de 72Kg. Meu objetivo a longo
+prazo é aumentar minha massa magra e diminuição de gordura visceral.
+Utilize o diagnóstico das telemetrias para comentar a **viabilidade e o progresso atual**
+em relação aos objetivos de curto (Peso < 72Kg) e longo prazo (Massa Magra/Gordura Visceral).
+
+Minha rotina de caminhadas vai se manter. Para exercícios de força,
+fatore dois modelos de treino para fazer em casa (exercícios que eu
+não precise de equipamentos de ginástica).
+- Um para amanhã (Sexta-feira).
+- Outro para Sábado.
+**Priorize exercícios de peso corporal (Bodyweight)** e os listados
+nas categorias **Músculos das Pernas, Quadril e Abdominais** da
+`lista-de-exercicios.org`.
+
+Para ciência o modelo de treino que eu executei hoje foi:
+
+#+begin_src text
+Warmup
+- 30s @ Z2 // Polichinelo
+- 30s @ Z1 // Rest
+
+// Main Block - Z3
+- 25s @ Z3 // 20 Crunch
+- 25s @ Z1 // Rest
+- 20s @ Z3 // 18 Mountain Climbers
+- 25s @ Z1 // Rest
+- 25s @ Z3 // 20 Basic Russian Twist
+- 25s @ Z1 // Rest
+- 25s @ Z3 // 20 Leg Raise
+- 25s @ Z1 // Rest
+
+// Main Block - Z4
+- 25s @ Z4 // 18 Crossover Crunch
+- 25s @ Z1 // Rest
+- 25s @ Z4 // 18 Bicycle Crunch
+- 25s @ Z1 // Rest
+
+// Main Block - Z5
+- 25s @ Z5 // 20 Crunch
+- 25s @ Z1 // Rest
+- 25s @ Z5 // 24 Basic Russian Twist
+- 25s @ Z1 // Rest
+- 20s @ Z5 // 18 Mountain Climbers
+- 25s @ Z1 // Rest
+- 25s @ Z5 // 22 Leg Raise
+- 25s @ Z1 // Rest
+- 25s @ Z5 // 20 Cross Crunch
+- 25s @ Z1 // Rest
+- 25s @ Z5 // 22 Bicycle Crunch
+- 25s @ Z1 // Rest
+- 30s @ Z5 // Kneeling Plank
+- 25s @ Z1 // Rest
+- 25s @ Z5 // 10 Side-Lying Right Crunch with Leg Lift
+- 25s @ Z1 // Rest
+- 25s @ Z5 // 10 Side-Lying Left Crunch with Leg Lift
+- 25s @ Z1 // Rest
+
+Cooldown
+- 30s @ Z3 // AB Stretch
+#+end_src
+
+Garanta que os treinos para Sexta e Sábado **não gerem conflito muscular**
+com o treino de abdominais executado hoje, respeitando o período de
+recuperação.
+
+Para sua referência leia os seguintes arquivos:
+- instrucoes-fatoracao-treino.md - é um manual da sintaxe e como gerar
+  os modelos de treino dentro do padrão que eu quero de sua entrega
+- lista-de-exercícios.org - é uma lista abrangente dos nomes de
+  exercícios que existem disponíveis no Zepp app, utilize apenas os
+  exercícios que constam nessa lista.
