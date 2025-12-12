@@ -1,0 +1,699 @@
+* Descrição
+  Esse documento centraliza os dados consolidados gerados pelo Zepp em
+  um formato histórico hierarquizado.
+
+* Dados Biométricos Base
+  :PROPERTIES:
+  :ID:       <Zepp id number>
+  :GENDER:   <sex>
+  :HEIGHT:   <XXX>
+  :BIRTHDAY: <XXXX XX>
+  :END:
+
+  Dados extraídos da tabela USER
+  
+* 2025
+
+** Janeiro
+
+*** ACTIVITY
+    #+CAPTION: Registro de atividades
+    #+name: tab:activity-janeiro
+    | ﻿date | steps | distance | runDistance | calories |
+    |------+-------+----------+-------------+----------|
+    |      |       |          |             |          |
+
+*** BODY
+    #+CAPTION: BODY
+    #+name: tab:body-janeiro
+    | ﻿time | weight | height | bmi | fatRate | bodyWaterRate | boneMass | metabolism | muscleRate | visceralFat |
+    |------+--------+--------+-----+---------+---------------+----------+------------+------------+-------------|
+    |      |        |        |     |         |               |          |            |            |             |
+
+*** HEARTRATE
+    #+CAPTION: HEARTRATE
+    #+NAME: tab:heartrate-janeiro
+    | ﻿time | heartRate |
+    |------+-----------|
+    |      |           |
+
+*** SLEEP
+    #+CAPTION: SLEEP
+    #+name: tab:sleep-janeiro
+    | ﻿date | deepSleepTime | shallowSleepTime | wakeTime | start | stop | REMTime | naps |
+    |------+---------------+------------------+----------+-------+------+---------+------|
+    |      |               |                  |          |       |      |         |      |
+
+*** SPORT
+    #+CAPTION: SPORT
+    #+name: tab:sport-janeiro
+    | ﻿type | startTime | sportTime(s) | maxPace(/meter) | minPace(/meter) | distance(m) | avgPace(/meter) | calories(kcal) |
+    |------+-----------+--------------+-----------------+-----------------+-------------+-----------------+----------------|
+    |      |           |              |                 |                 |             |                 |                |
+
+*** Resumos de Alta Frequência
+
+**** Atividade Contínua
+#+name: tab:atividade_continua_janeiro
+| Metric | Total Value | Daily Average |
+|--------+-------------+---------------|
+|        |             |               |
+
+**** Padrões de Sono (Minuto a Minuto)
+#+name: tab:padroes_sono_janeiro
+| Stage | Average (min) | StdDev (min) |
+|-------+---------------+--------------|
+|       |               |              |
+
+**** Frequência Cardíaca Contínua
+#+name: tab:frequencia_cardiaca_janeiro
+| Metric | Value |
+|--------+-------|
+|        |       |
+
+** Fevereiro
+
+*** ACTIVITY
+    #+CAPTION: Registro de atividades
+    #+name: tab:activity-fevereiro
+    | ﻿date | steps | distance | runDistance | calories |
+    |------+-------+----------+-------------+----------|
+    |      |       |          |             |          |
+
+*** BODY
+    #+CAPTION: BODY
+    #+name: tab:body-fevereiro
+    | ﻿time | weight | height | bmi | fatRate | bodyWaterRate | boneMass | metabolism | muscleRate | visceralFat |
+    |------+--------+--------+-----+---------+---------------+----------+------------+------------+-------------|
+    |      |        |        |     |         |               |          |            |            |             |
+
+*** HEARTRATE
+    #+CAPTION: HEARTRATE
+    #+NAME: tab:heartrate-fevereiro
+    | ﻿time | heartRate |
+    |------+-----------|
+    |      |           |
+
+*** SLEEP
+    #+CAPTION: SLEEP
+    #+name: tab:sleep-fevereiro
+    | ﻿date | deepSleepTime | shallowSleepTime | wakeTime | start | stop | REMTime | naps |
+    |------+---------------+------------------+----------+-------+------+---------+------|
+    |      |               |                  |          |       |      |         |      |
+
+*** SPORT
+    #+CAPTION: SPORT
+    #+name: tab:sport-fevereiro
+    | ﻿type | startTime | sportTime(s) | maxPace(/meter) | minPace(/meter) | distance(m) | avgPace(/meter) | calories(kcal) |
+    |------+-----------+--------------+-----------------+-----------------+-------------+-----------------+----------------|
+    |      |           |              |                 |                 |             |                 |                |
+
+*** Resumos de Alta Frequência
+
+**** Atividade Contínua
+#+name: tab:atividade_continua_fevereiro
+| Metric | Total Value | Daily Average |
+|--------+-------------+---------------|
+|        |             |               |
+
+**** Padrões de Sono (Minuto a Minuto)
+#+name: tab:padroes_sono_fevereiro
+| Stage | Average (min) | StdDev (min) |
+|-------+---------------+--------------|
+|       |               |              |
+
+**** Frequência Cardíaca Contínua
+#+name: tab:frequencia_cardiaca_fevereiro
+| Metric | Value |
+|--------+-------|
+|        |       |
+
+** Março
+
+*** ACTIVITY
+    #+CAPTION: Registro de atividades
+    #+name: tab:activity-marco
+    | ﻿date | steps | distance | runDistance | calories |
+    |------+-------+----------+-------------+----------|
+    |      |       |          |             |          |
+
+*** BODY
+    #+CAPTION: BODY
+    #+name: tab:body-marco
+    | ﻿time | weight | height | bmi | fatRate | bodyWaterRate | boneMass | metabolism | muscleRate | visceralFat |
+    |------+--------+--------+-----+---------+---------------+----------+------------+------------+-------------|
+    |      |        |        |     |         |               |          |            |            |             |
+
+*** HEARTRATE
+    #+CAPTION: HEARTRATE
+    #+NAME: tab:heartrate-marco
+    | ﻿time | heartRate |
+    |------+-----------|
+    |      |           |
+
+*** SLEEP
+    #+CAPTION: SLEEP
+    #+name: tab:sleep-marco
+    | ﻿date | deepSleepTime | shallowSleepTime | wakeTime | start | stop | REMTime | naps |
+    |------+---------------+------------------+----------+-------+------+---------+------|
+    |      |               |                  |          |       |      |         |      |
+
+*** SPORT
+    #+CAPTION: SPORT
+    #+name: tab:sport-marco
+    | ﻿type | startTime | sportTime(s) | maxPace(/meter) | minPace(/meter) | distance(m) | avgPace(/meter) | calories(kcal) |
+    |------+-----------+--------------+-----------------+-----------------+-------------+-----------------+----------------|
+    |      |           |              |                 |                 |             |                 |                |
+
+*** Resumos de Alta Frequência
+
+**** Atividade Contínua
+#+name: tab:atividade_continua_marco
+| Metric | Total Value | Daily Average |
+|--------+-------------+---------------|
+|        |             |               |
+
+**** Padrões de Sono (Minuto a Minuto)
+#+name: tab:padroes_sono_marco
+| Stage | Average (min) | StdDev (min) |
+|-------+---------------+--------------|
+|       |               |              |
+
+**** Frequência Cardíaca Contínua
+#+name: tab:frequencia_cardiaca_marco
+| Metric | Value |
+|--------+-------|
+|        |       |
+
+** Abril
+
+*** ACTIVITY
+    #+CAPTION: Registro de atividades
+    #+name: tab:activity-abril
+    | ﻿date | steps | distance | runDistance | calories |
+    |------+-------+----------+-------------+----------|
+    |      |       |          |             |          |
+
+*** BODY
+    #+CAPTION: BODY
+    #+name: tab:body-abril
+    | ﻿time | weight | height | bmi | fatRate | bodyWaterRate | boneMass | metabolism | muscleRate | visceralFat |
+    |------+--------+--------+-----+---------+---------------+----------+------------+------------+-------------|
+    |      |        |        |     |         |               |          |            |            |             |
+
+*** HEARTRATE
+    #+CAPTION: HEARTRATE
+    #+NAME: tab:heartrate-abril
+    | ﻿time | heartRate |
+    |------+-----------|
+    |      |           |
+
+*** SLEEP
+    #+CAPTION: SLEEP
+    #+name: tab:sleep-abril
+    | ﻿date | deepSleepTime | shallowSleepTime | wakeTime | start | stop | REMTime | naps |
+    |------+---------------+------------------+----------+-------+------+---------+------|
+    |      |               |                  |          |       |      |         |      |
+
+*** SPORT
+    #+CAPTION: SPORT
+    #+name: tab:sport-abril
+    | ﻿type | startTime | sportTime(s) | maxPace(/meter) | minPace(/meter) | distance(m) | avgPace(/meter) | calories(kcal) |
+    |------+-----------+--------------+-----------------+-----------------+-------------+-----------------+----------------|
+    |      |           |              |                 |                 |             |                 |                |
+
+*** Resumos de Alta Frequência
+
+**** Atividade Contínua
+#+name: tab:atividade_continua_abril
+| Metric | Total Value | Daily Average |
+|--------+-------------+---------------|
+|        |             |               |
+
+**** Padrões de Sono (Minuto a Minuto)
+#+name: tab:padroes_sono_abril
+| Stage | Average (min) | StdDev (min) |
+|-------+---------------+--------------|
+|       |               |              |
+
+**** Frequência Cardíaca Contínua
+#+name: tab:frequencia_cardiaca_abril
+| Metric | Value |
+|--------+-------|
+|        |       |
+
+** Maio
+
+*** ACTIVITY
+    #+CAPTION: Registro de atividades
+    #+name: tab:activity-maio
+    | ﻿date | steps | distance | runDistance | calories |
+    |------+-------+----------+-------------+----------|
+    |      |       |          |             |          |
+
+*** BODY
+    #+CAPTION: BODY
+    #+name: tab:body-maio
+    | ﻿time | weight | height | bmi | fatRate | bodyWaterRate | boneMass | metabolism | muscleRate | visceralFat |
+    |------+--------+--------+-----+---------+---------------+----------+------------+------------+-------------|
+    |      |        |        |     |         |               |          |            |            |             |
+
+*** HEARTRATE
+    #+CAPTION: HEARTRATE
+    #+NAME: tab:heartrate-maio
+    | ﻿time | heartRate |
+    |------+-----------|
+    |      |           |
+
+*** SLEEP
+    #+CAPTION: SLEEP
+    #+name: tab:sleep-maio
+    | ﻿date | deepSleepTime | shallowSleepTime | wakeTime | start | stop | REMTime | naps |
+    |------+---------------+------------------+----------+-------+------+---------+------|
+    |      |               |                  |          |       |      |         |      |
+
+*** SPORT
+    #+CAPTION: SPORT
+    #+name: tab:sport-maio
+    | ﻿type | startTime | sportTime(s) | maxPace(/meter) | minPace(/meter) | distance(m) | avgPace(/meter) | calories(kcal) |
+    |------+-----------+--------------+-----------------+-----------------+-------------+-----------------+----------------|
+    |      |           |              |                 |                 |             |                 |                |
+
+*** Resumos de Alta Frequência
+
+**** Atividade Contínua
+#+name: tab:atividade_continua_maio
+| Metric | Total Value | Daily Average |
+|--------+-------------+---------------|
+|        |             |               |
+
+**** Padrões de Sono (Minuto a Minuto)
+#+name: tab:padroes_sono_maio
+| Stage | Average (min) | StdDev (min) |
+|-------+---------------+--------------|
+|       |               |              |
+
+**** Frequência Cardíaca Contínua
+#+name: tab:frequencia_cardiaca_maio
+| Metric | Value |
+|--------+-------|
+|        |       |
+
+** Junho
+
+*** ACTIVITY
+    #+CAPTION: Registro de atividades
+    #+name: tab:activity-junho
+    | ﻿date | steps | distance | runDistance | calories |
+    |------+-------+----------+-------------+----------|
+    |      |       |          |             |          |
+
+*** BODY
+    #+CAPTION: BODY
+    #+name: tab:body-junho
+    | ﻿time | weight | height | bmi | fatRate | bodyWaterRate | boneMass | metabolism | muscleRate | visceralFat |
+    |------+--------+--------+-----+---------+---------------+----------+------------+------------+-------------|
+    |      |        |        |     |         |               |          |            |            |             |
+
+*** HEARTRATE
+    #+CAPTION: HEARTRATE
+    #+NAME: tab:heartrate-junho
+    | ﻿time | heartRate |
+    |------+-----------|
+    |      |           |
+
+*** SLEEP
+    #+CAPTION: SLEEP
+    #+name: tab:sleep-junho
+    | ﻿date | deepSleepTime | shallowSleepTime | wakeTime | start | stop | REMTime | naps |
+    |------+---------------+------------------+----------+-------+------+---------+------|
+    |      |               |                  |          |       |      |         |      |
+
+*** SPORT
+    #+CAPTION: SPORT
+    #+name: tab:sport-junho
+    | ﻿type | startTime | sportTime(s) | maxPace(/meter) | minPace(/meter) | distance(m) | avgPace(/meter) | calories(kcal) |
+    |------+-----------+--------------+-----------------+-----------------+-------------+-----------------+----------------|
+    |      |           |              |                 |                 |             |                 |                |
+
+*** Resumos de Alta Frequência
+
+**** Atividade Contínua
+#+name: tab:atividade_continua_junho
+| Metric | Total Value | Daily Average |
+|--------+-------------+---------------|
+|        |             |               |
+
+**** Padrões de Sono (Minuto a Minuto)
+#+name: tab:padroes_sono_junho
+| Stage | Average (min) | StdDev (min) |
+|-------+---------------+--------------|
+|       |               |              |
+
+**** Frequência Cardíaca Contínua
+#+name: tab:frequencia_cardiaca_junho
+| Metric | Value |
+|--------+-------|
+|        |       |
+
+** Julho
+
+*** ACTIVITY
+    #+CAPTION: Registro de atividades
+    #+name: tab:activity-julho
+    | ﻿date | steps | distance | runDistance | calories |
+    |------+-------+----------+-------------+----------|
+    |      |       |          |             |          |
+
+*** BODY
+    #+CAPTION: BODY
+    #+name: tab:body-julho
+    | ﻿time | weight | height | bmi | fatRate | bodyWaterRate | boneMass | metabolism | muscleRate | visceralFat |
+    |------+--------+--------+-----+---------+---------------+----------+------------+------------+-------------|
+    |      |        |        |     |         |               |          |            |            |             |
+
+*** HEARTRATE
+    #+CAPTION: HEARTRATE
+    #+NAME: tab:heartrate-julho
+    | ﻿time | heartRate |
+    |------+-----------|
+    |      |           |
+
+*** SLEEP
+    #+CAPTION: SLEEP
+    #+name: tab:sleep-julho
+    | ﻿date | deepSleepTime | shallowSleepTime | wakeTime | start | stop | REMTime | naps |
+    |------+---------------+------------------+----------+-------+------+---------+------|
+    |      |               |                  |          |       |      |         |      |
+
+*** SPORT
+    #+CAPTION: SPORT
+    #+name: tab:sport-julho
+    | ﻿type | startTime | sportTime(s) | maxPace(/meter) | minPace(/meter) | distance(m) | avgPace(/meter) | calories(kcal) |
+    |------+-----------+--------------+-----------------+-----------------+-------------+-----------------+----------------|
+    |      |           |              |                 |                 |             |                 |                |
+
+*** Resumos de Alta Frequência
+
+**** Atividade Contínua
+#+name: tab:atividade_continua_julho
+| Metric | Total Value | Daily Average |
+|--------+-------------+---------------|
+|        |             |               |
+
+**** Padrões de Sono (Minuto a Minuto)
+#+name: tab:padroes_sono_julho
+| Stage | Average (min) | StdDev (min) |
+|-------+---------------+--------------|
+|       |               |              |
+
+**** Frequência Cardíaca Contínua
+#+name: tab:frequencia_cardiaca_julho
+| Metric | Value |
+|--------+-------|
+|        |       |
+
+** Agosto
+
+*** ACTIVITY
+    #+CAPTION: Registro de atividades
+    #+name: tab:activity-agosto
+    | ﻿date | steps | distance | runDistance | calories |
+    |------+-------+----------+-------------+----------|
+    |      |       |          |             |          |
+
+*** BODY
+    #+CAPTION: BODY
+    #+name: tab:body-agosto
+    | ﻿time | weight | height | bmi | fatRate | bodyWaterRate | boneMass | metabolism | muscleRate | visceralFat |
+    |------+--------+--------+-----+---------+---------------+----------+------------+------------+-------------|
+    |      |        |        |     |         |               |          |            |            |             |
+
+*** HEARTRATE
+    #+CAPTION: HEARTRATE
+    #+NAME: tab:heartrate-agosto
+    | ﻿time | heartRate |
+    |------+-----------|
+    |      |           |
+
+*** SLEEP
+    #+CAPTION: SLEEP
+    #+name: tab:sleep-agosto
+    | ﻿date | deepSleepTime | shallowSleepTime | wakeTime | start | stop | REMTime | naps |
+    |------+---------------+------------------+----------+-------+------+---------+------|
+    |      |               |                  |          |       |      |         |      |
+
+*** SPORT
+    #+CAPTION: SPORT
+    #+name: tab:sport-agosto
+    | ﻿type | startTime | sportTime(s) | maxPace(/meter) | minPace(/meter) | distance(m) | avgPace(/meter) | calories(kcal) |
+    |------+-----------+--------------+-----------------+-----------------+-------------+-----------------+----------------|
+    |      |           |              |                 |                 |             |                 |                |
+
+*** Resumos de Alta Frequência
+
+**** Atividade Contínua
+#+name: tab:atividade_continua_agosto
+| Metric | Total Value | Daily Average |
+|--------+-------------+---------------|
+|        |             |               |
+
+**** Padrões de Sono (Minuto a Minuto)
+#+name: tab:padroes_sono_agosto
+| Stage | Average (min) | StdDev (min) |
+|-------+---------------+--------------|
+|       |               |              |
+
+**** Frequência Cardíaca Contínua
+#+name: tab:frequencia_cardiaca_agosto
+| Metric | Value |
+|--------+-------|
+|        |       |
+
+** Setembro
+
+*** ACTIVITY
+    #+CAPTION: Registro de atividades
+    #+name: tab:activity-setembro
+    | ﻿date | steps | distance | runDistance | calories |
+    |------+-------+----------+-------------+----------|
+    |      |       |          |             |          |
+
+*** BODY
+    #+CAPTION: BODY
+    #+name: tab:body-setembro
+    | ﻿time | weight | height | bmi | fatRate | bodyWaterRate | boneMass | metabolism | muscleRate | visceralFat |
+    |------+--------+--------+-----+---------+---------------+----------+------------+------------+-------------|
+    |      |        |        |     |         |               |          |            |            |             |
+
+*** HEARTRATE
+    #+CAPTION: HEARTRATE
+    #+NAME: tab:heartrate-setembro
+    | ﻿time | heartRate |
+    |------+-----------|
+    |      |           |
+
+*** SLEEP
+    #+CAPTION: SLEEP
+    #+name: tab:sleep-setembro
+    | ﻿date | deepSleepTime | shallowSleepTime | wakeTime | start | stop | REMTime | naps |
+    |------+---------------+------------------+----------+-------+------+---------+------|
+    |      |               |                  |          |       |      |         |      |
+
+*** SPORT
+    #+CAPTION: SPORT
+    #+name: tab:sport-setembro
+    | ﻿type | startTime | sportTime(s) | maxPace(/meter) | minPace(/meter) | distance(m) | avgPace(/meter) | calories(kcal) |
+    |------+-----------+--------------+-----------------+-----------------+-------------+-----------------+----------------|
+    |      |           |              |                 |                 |             |                 |                |
+
+*** Resumos de Alta Frequência
+
+**** Atividade Contínua
+#+name: tab:atividade_continua_setembro
+| Metric | Total Value | Daily Average |
+|--------+-------------+---------------|
+|        |             |               |
+
+**** Padrões de Sono (Minuto a Minuto)
+#+name: tab:padroes_sono_setembro
+| Stage | Average (min) | StdDev (min) |
+|-------+---------------+--------------|
+|       |               |              |
+
+**** Frequência Cardíaca Contínua
+#+name: tab:frequencia_cardiaca_setembro
+| Metric | Value |
+|--------+-------|
+|        |       |
+
+** Outubro
+
+*** ACTIVITY
+    #+CAPTION: Registro de atividades
+    #+name: tab:activity-outubro
+    | ﻿date | steps | distance | runDistance | calories |
+    |------+-------+----------+-------------+----------|
+    |      |       |          |             |          |
+
+*** BODY
+    #+CAPTION: BODY
+    #+name: tab:body-outubro
+    | ﻿time | weight | height | bmi | fatRate | bodyWaterRate | boneMass | metabolism | muscleRate | visceralFat |
+    |------+--------+--------+-----+---------+---------------+----------+------------+------------+-------------|
+    |      |        |        |     |         |               |          |            |            |             |
+
+*** HEARTRATE
+    #+CAPTION: HEARTRATE
+    #+NAME: tab:heartrate-outubro
+    | ﻿time | heartRate |
+    |------+-----------|
+    |      |           |
+
+*** SLEEP
+    #+CAPTION: SLEEP
+    #+name: tab:sleep-outubro
+    | ﻿date | deepSleepTime | shallowSleepTime | wakeTime | start | stop | REMTime | naps |
+    |------+---------------+------------------+----------+-------+------+---------+------|
+    |      |               |                  |          |       |      |         |      |
+
+*** SPORT
+    #+CAPTION: SPORT
+    #+name: tab:sport-outubro
+    | ﻿type | startTime | sportTime(s) | maxPace(/meter) | minPace(/meter) | distance(m) | avgPace(/meter) | calories(kcal) |
+    |------+-----------+--------------+-----------------+-----------------+-------------+-----------------+----------------|
+    |      |           |              |                 |                 |             |                 |                |
+
+*** Resumos de Alta Frequência
+
+**** Atividade Contínua
+#+name: tab:atividade_continua_outubro
+| Metric | Total Value | Daily Average |
+|--------+-------------+---------------|
+|        |             |               |
+
+**** Padrões de Sono (Minuto a Minuto)
+#+name: tab:padroes_sono_outubro
+| Stage | Average (min) | StdDev (min) |
+|-------+---------------+--------------|
+|       |               |              |
+
+**** Frequência Cardíaca Contínua
+#+name: tab:frequencia_cardiaca_outubro
+| Metric | Value |
+|--------+-------|
+|        |       |
+
+** Novembro
+
+*** ACTIVITY
+    #+CAPTION: Registro de atividades
+    #+name: tab:activity-novembro
+    | ﻿date | steps | distance | runDistance | calories |
+    |------+-------+----------+-------------+----------|
+    |      |       |          |             |          |
+
+*** BODY
+    #+CAPTION: BODY
+    #+name: tab:body-novembro
+    | ﻿time | weight | height | bmi | fatRate | bodyWaterRate | boneMass | metabolism | muscleRate | visceralFat |
+    |------+--------+--------+-----+---------+---------------+----------+------------+------------+-------------|
+    |      |        |        |     |         |               |          |            |            |             |
+
+*** HEARTRATE
+    #+CAPTION: HEARTRATE
+    #+NAME: tab:heartrate-novembro
+    | ﻿time | heartRate |
+    |------+-----------|
+    |      |           |
+
+*** SLEEP
+    #+CAPTION: SLEEP
+    #+name: tab:sleep-novembro
+    | ﻿date | deepSleepTime | shallowSleepTime | wakeTime | start | stop | REMTime | naps |
+    |------+---------------+------------------+----------+-------+------+---------+------|
+    |      |               |                  |          |       |      |         |      |
+
+*** SPORT
+    #+CAPTION: SPORT
+    #+name: tab:sport-novembro
+    | ﻿type | startTime | sportTime(s) | maxPace(/meter) | minPace(/meter) | distance(m) | avgPace(/meter) | calories(kcal) |
+    |------+-----------+--------------+-----------------+-----------------+-------------+-----------------+----------------|
+    |      |           |              |                 |                 |             |                 |                |
+
+*** Resumos de Alta Frequência
+
+**** Atividade Contínua
+#+name: tab:atividade_continua_novembro
+| Metric | Total Value | Daily Average |
+|--------+-------------+---------------|
+|        |             |               |
+
+**** Padrões de Sono (Minuto a Minuto)
+#+name: tab:padroes_sono_novembro
+| Stage | Average (min) | StdDev (min) |
+|-------+---------------+--------------|
+|       |               |              |
+
+**** Frequência Cardíaca Contínua
+#+name: tab:frequencia_cardiaca_novembro
+| Metric | Value |
+|--------+-------|
+|        |       |
+
+** Dezembro
+
+*** ACTIVITY
+    #+CAPTION: Registro de atividades
+    #+name: tab:activity-dezembro
+    | ﻿date | steps | distance | runDistance | calories |
+    |------+-------+----------+-------------+----------|
+    |      |       |          |             |          |
+
+*** BODY
+    #+CAPTION: BODY
+    #+name: tab:body-dezembro
+    | ﻿time | weight | height | bmi | fatRate | bodyWaterRate | boneMass | metabolism | muscleRate | visceralFat |
+    |------+--------+--------+-----+---------+---------------+----------+------------+------------+-------------|
+    |      |        |        |     |         |               |          |            |            |             |
+
+*** HEARTRATE
+    #+CAPTION: HEARTRATE
+    #+NAME: tab:heartrate-dezembro
+    | ﻿time | heartRate |
+    |------+-----------|
+    |      |           |
+
+*** SLEEP
+    #+CAPTION: SLEEP
+    #+name: tab:sleep-dezembro
+    | ﻿date | deepSleepTime | shallowSleepTime | wakeTime | start | stop | REMTime | naps |
+    |------+---------------+------------------+----------+-------+------+---------+------|
+    |      |               |                  |          |       |      |         |      |
+
+*** SPORT
+    #+CAPTION: SPORT
+    #+name: tab:sport-dezembro
+    | ﻿type | startTime | sportTime(s) | maxPace(/meter) | minPace(/meter) | distance(m) | avgPace(/meter) | calories(kcal) |
+    |------+-----------+--------------+-----------------+-----------------+-------------+-----------------+----------------|
+    |      |           |              |                 |                 |             |                 |                |
+
+*** Resumos de Alta Frequência
+
+**** Atividade Contínua
+#+name: tab:atividade_continua_dezembro
+| Metric | Total Value | Daily Average |
+|--------+-------------+---------------|
+|        |             |               |
+
+**** Padrões de Sono (Minuto a Minuto)
+#+name: tab:padroes_sono_dezembro
+| Stage | Average (min) | StdDev (min) |
+|-------+---------------+--------------|
+|       |               |              |
+
+**** Frequência Cardíaca Contínua
+#+name: tab:frequencia_cardiaca_dezembro
+| Metric | Value |
+|--------+-------|
+|        |       |

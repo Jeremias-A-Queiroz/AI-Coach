@@ -1,10 +1,10 @@
 Favor ler detalhadamente e integrar todo o conteúdo do diretório
-=/jeremias/src/IA-Coach/zepp-data/*=
+=/suahome/Documentos/consolided-zepp-data.org*=
 
 Lá constam dados detalhados coletados pelo aplicativo Zepp através do
-meu Amazfit T-Rex 3.
+meu Amazfit device.
 
-Com base na correlação das telemetrias (Sono, FC, Stress, Atividade e Metas),
+Com base na correlação das telemetrias (Sono, FC, Stress, Atividade...),
 fatore um **diagnóstico** detalhado da minha rotina de saúde atual e **tendências**
 de médio prazo.
 

@@ -1,0 +1,110 @@
+* Descrição
+  Aqui consta uma biblioteca de treinos já existentes e cadastrados no
+  Zepp e no Intervals.icu.
+  Eles podem e devem ser reaproveitados
+  quando pertinente após a análise dos dados telemetricos fornecidos
+  ao LLM
+** Instruções
+*** Reaproveitamento
+   Quando for reaproveitar um treino o conteúdo de tal treino não deve
+   ser printado no chat, apenas oriente ao usuário "Busque na
+   biblioteca de modelos de treino o modelo X e agende-o no dia N, e o
+   modelo Y e agende-o no dia M..." e assim por diante.
+*** Criação de treinos
+   Quando for criado um modelo de treino novo relembre o usuário de
+   incrementar esse treino novo na biblioteca de modelos de treino para
+   referência futura.
+
+   O modelo de sintaxe do intervals.icu deve seguir conforme os
+   exemplos abaixo cruzando com as informações que constam em
+   "instrucoes-fatoracao-treino.md".
+
+   No caso de treinos com repetição sempre estime a duração do treino
+   e a Zona cardíaca seguindo o formato:
+
+   =- XXs @ Zn // XX repetições nomedoexercicio=
+
+   Para estimar a duração e as zonas calcule a partir dos valores dos
+   exercícios que constam nesse documento, pois as durações e Zonas que
+   aqui constam já foram validadas e cruzadas com os resultados reais
+   após executados.
+   
+* Modelos de treino
+** Potência Inferior
+
+   #+CAPTION: Potência Inferior - Zepp
+   #+NAME: tab:potencia-inferior
+   | Campo | Tipo de Intervalo | Nome do Exercício              | Duração / Reps | Carga         | Repetir (Loop) | Nota           |
+   | :---: | :---:             | :---:                          | :---:          | :---:         | :---:          | :---:          |
+   |     1 | Aquecimento       | Polichinelo                    | 1m             | Peso corporal | -              |                |
+   |     2 | Descansar         | -                              | 30s            | -             | -              |                |
+   |     3 | Treino            | Agachamento com peso corporal  | 15 vezes       | Peso corporal | 4x             | Bloco 3 ao 8   |
+   |     4 | Descansar         | -                              | 30s            | -             |                |                |
+   |     5 | Treino            | Avanço alternado               | 20 vezes       | Peso corporal |                | (10 por perna) |
+   |     6 | Descansar         | -                              | 30s            | -             |                |                |
+   |     7 | Treino            | Glute Bridge                   | 20 vezes       | Peso corporal |                |                |
+   |     8 | Descansar         | -                              | 1m             | -             |                |                |
+   |     9 | Relaxado          | Supine Left Hamstring Stretch  | 45s            | Peso corporal | -              |                |
+   |    10 | Relaxado          | Supine Right Hamstring Stretch | 45s            | Peso corporal | -              |                |
+
+   #+CAPTION: Potência Inferior - Intervals.icu
+   #+NAME: src:potencia-inferior
+   #+begin_src text
+     Warmup
+     - 1m @ Z2 Polichinelo
+     - 30s @ Z1 Descanso
+
+     4x {
+     - 35s @ Z2 // 15 repetições Agachamento com peso corporal
+     - 30s @ Z1 Descanso
+     - 65s @ Z3 // 20 repetições Avanço alternado
+     - 30s @ Z1 Descanso
+     - 40s @ Z2// 20 repetições Glute Bridge
+     - 1m @ Z1 Descanso
+     }
+
+     Cooldown
+     - 45s @ Z1 Alongamento (Isquiotibial Esquerdo)
+     - 45s @ Z1 Alongamento (Isquiotibial Direito)
+   #+end_src
+*** Execuções
+    Treino executado em:
+    - 2025/12/12 09:18
+** Ativação Metabólica
+
+   #+CAPTION: Ativação Metabolica - Zepp
+   #+NAME: tab:ativacao-metabolica
+   | Campo | Tipo de Intervalo | Nome do Exercício             | Duração / Reps | Carga         | Repetir (Loop) | Nota          |
+   | :---: | :---:             | :---:                         | :---:          | :---:         | :---:          | :---:         |
+   |     1 | Aquecimento       | High Knees                    | 1m             | Peso corporal | -              |               |
+   |     2 | Descansar         | -                             | 30s            | -             |                |               |
+   |     3 | Treino            | Flexão com joelhos apoiados   | 12 vezes       | Peso corporal | 3x             | Bloco 3 ao 10 |
+   |     4 | Descansar         | -                             | 20s            | -             |                |               |
+   |     5 | Treino            | Superman Pose                 | 30s            | Peso corporal |                |               |
+   |     6 | Descansar         | -                             | 20s            | -             |                |               |
+   |     7 | Treino            | Agachamento com peso corporal | 15 vezes       | Peso corporal |                |               |
+   |     8 | Descansar         | -                             | 20s            | -             |                |               |
+   |     9 | Treino            | Prancha                       | 45s            | Peso corporal |                |               |
+   |    10 | Descansar         | -                             | 1m             | -             |                |               |
+   |    11 | Relaxado          | Ab Stretch                    | 1m             | Peso corporal | -              |               |
+
+   #+CAPTION: Ativação Metabolica - Intervals.icu
+   #+NAME: tab:ativacao-metabolica
+   #+begin_src text
+     - 1m @ Z2 High Knees
+     - 30s @ Z1 Descanso
+
+     3x {
+     - 15s @ Z2 // 12 repetições Flexão com joelhos apoiados
+     - 20s @ Z1 Descanso
+     - 30s @ Z3 // Superman Pose
+     - 20s @ Z1 Descanso
+     - 35s @ Z2 // 15 repetições Agachamento com peso corporal
+     - 20s @ Z1 Descanso
+     - 45s @ Z3 // Prancha
+     - 1m @ Z1 Descanso
+     }
+
+     - 1m @ Z1 Alongamento Abdominal
+   #+end_src
+   

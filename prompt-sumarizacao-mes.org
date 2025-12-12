@@ -1,0 +1,51 @@
+Sua tarefa é ler um conjunto de arquivos CSV de dados de saúde,
+processá-los de duas maneiras diferentes (importação direta e 
+sumarização), e gerar um único bloco de texto coeso em formato Org-Mode.
+
+# CONTEXTO FORNECIDO
+1.  **Dados Brutos do Mês:** Forneci o conteúdo de múltiplos arquivos CSV. O nome de cada arquivo indica o tipo de
+    dado.
+2.  **Exemplo de Saída:** Forneci um exemplo de um arquivo Org-Mode =consolided-zepp-data.org= que mostra a estrutura final desejada. Use-o
+    como seu gabarito visual para a formatação.
+
+# TAREFA GERAL
+
+Você irá analisar os arquivos de dados de alta frequência para criar novas tabelas de resumo. Crie um
+cabeçalho principal =*/ Resumos de Alta Frequência= e, abaixo dele, crie as seguintes seções e tabelas:
+
+**1. Seção =** Atividade Contínua=**
+- **Fonte de Dados:** =ACTIVITY_STAGE_*.csv= ou =ACTIVITY_MINUTE_*.csv=.
+- **Lógica:** Agrupe os dados por dia e depois calcule a média mensal.
+  - **Minutos Ativos:** Some os minutos onde o estágio da atividade não seja "parado". Calcule o total e a média diária.
+  - **Minutos de Caminhada:** Some os minutos onde o estágio seja "caminhada". Calcule o total e a média diária.
+  - **Minutos Parado:** Some os minutos onde o estágio seja "parado". Calcule o total e a média diária.
+
+**2. Seção =** Padrões de Sono (Minuto a Minuto)=**
+- **Fonte de Dados:** =SLEEP_MINUTE_*.csv=.
+- **Lógica:** Para cada noite de sono, conte os minutos em cada estágio (=type=). Depois, calcule a média e o
+  desvio padrão mensal para cada estágio.
+  - **Sono Profundo (min):** Média e Desvio Padrão do =type= correspondente.
+  - **Sono Leve (min):** Média e Desvio Padrão do =type= correspondente.
+  - **Sono REM (min):** Média e Desvio Padrão do =type= correspondente.
+  - **Tempo Acordado (min):** Média e Desvio Padrão do =type= correspondente.
+
+**3. Seção =** Frequência Cardíaca Contínua=**
+- **Fonte de Dados:** =HEARTRATE_AUTO_*.csv= e =SLEEP_MINUTE_*.csv=.
+- **Lógica:**
+  - **FC Repouso (média noite):** Use =SLEEP_MINUTE_*.csv=. Para cada noite, encontre a frequência cardíaca (=hr=)
+    mínima. Calcule a média desses valores mínimos ao longo do mês.
+  - **FC Média (acordado):** Use =HEARTRATE_AUTO_*.csv=. Calcule a média da coluna =heartRate=.
+  - **FC Máxima (acordado):** Use =HEARTRATE_AUTO_*.csv=. Encontre o valor máximo da coluna =heartRate=.
+
+---
+# FORMATO DE SAÍDA FINAL
+Gere um bloco de texto Org-Mode que conterá apenas os dados
+sumarizados em suas seções expecíficas como mostra o exemplo. Siga 
+estritamente a formatação do exemplo fornecido.
+
+Não inclua este texto de instruções na sua resposta.
+Não inclua nesse texto qualquer conteúdo pre-existente no arquivo
+=consolided-zepp-data.org=.
+
+
+Inicie o processamento.
