@@ -6,22 +6,10 @@ Favor ler detalhadamente e integrar todo o conteúdo do arquivo
 Lá constam dados detalhados coletados pelo aplicativo Zepp através do
 meu Amazfit device.
 
-Um ponto de atenção importante, eu uso meu dispositivo Amazfit apenas
-no primeiro período da manhâ. Pois quando vou para meu trabalho eu dou
-preferência para utilizar relógios mecânicos (automáticos) pois são
-uma paixão minha. Não que eu ache meu Amazfit feio, mas de modo geral
-prefiro relógios mecanicos para interagir com pessoas. Esse dado é
-importante pois apesar de registrar médias de quantidade de passos
-baixa eu acredito firmemente que exceda 7000 passos dia. Estudo
-comprar um Amazfit smart ring para a contagem de passos no futuro, mas
-como é um investimento auto isso ainda está em segundo plano.
 
 Com base na correlação das telemetrias (Sono, FC, Stress, Atividade...),
 fatore um **diagnóstico** detalhado da minha rotina de saúde atual e **tendências**
 de médio prazo.
-
-Não seja otimista nem negativista em sua resposta, seja realista e
-puramente analítica.
 
 Fundamente sua resposta citando dados encontrados em =2025.org=.
 Tenha em mente que em nossa próxima interação precisarei remover o

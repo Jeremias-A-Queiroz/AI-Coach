@@ -97,7 +97,7 @@
      - 30s @ Z1 Descanso
 
      3x {
-     - 15s @ Z2 // 12 repetições Flexão com joelhos apoiados
+     - 27s @ Z2 // 12 repetições Flexão com joelhos apoiados
      - 20s @ Z1 Descanso
      - 30s @ Z3 // Superman Pose
      - 20s @ Z1 Descanso
@@ -109,6 +109,9 @@
 
      - 1m @ Z1 Alongamento Abdominal
    #+end_src
+*** Execuções
+    Treino executado em:
+    - 2025/12/13 07:22
 ** Força Corporal Total
    Author: Gemini 
    Este treino foi projetado para engajar o corpo todo com foco em grupos musculares que o auxiliarão tanto na força
@@ -155,3 +158,6 @@
      - 45s @ Z1 Alongamento (Ombro)
      - 45s @ Z1 Alongamento (Lombar)
    #+end_src
+*** Execuções
+    Treino executado em:
+    - Treino ainda não executado
