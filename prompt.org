@@ -6,9 +6,28 @@ Favor ler detalhadamente e integrar todo o conteúdo do arquivo
 Lá constam dados detalhados coletados pelo aplicativo Zepp através do
 meu Amazfit device.
 
+Um ponto de atenção importante, eu uso meu dispositivo Amazfit apenas
+no primeiro período da manhâ. Pois quando vou para meu trabalho eu dou
+preferência para utilizar relógios mecânicos (automáticos) pois são
+uma paixão minha. Não que eu ache meu Amazfit feio, mas de modo geral
+prefiro relógios mecanicos para interagir com pessoas. Esse dado é
+importante pois apesar de registrar médias de quantidade de passos
+baixa eu acredito firmemente que exceda 7000 passos dia. Estudo
+comprar um Amazfit smart ring para a contagem de passos no futuro, mas
+como é um investimento auto isso ainda está em segundo plano.
+
 Com base na correlação das telemetrias (Sono, FC, Stress, Atividade...),
 fatore um **diagnóstico** detalhado da minha rotina de saúde atual e **tendências**
 de médio prazo.
+
+Não seja otimista nem negativista em sua resposta, seja realista e
+puramente analítica.
+
+Fundamente sua resposta citando dados encontrados em =2025.org=.
+Tenha em mente que em nossa próxima interação precisarei remover o
+arquivo =2025.org= do compartilhamento para propiciar economia de
+Tokens e quanto mais rica e bem fundamentada sua resposta a esse
+prompt for, melhor será sua resposta na próxima interação.
 
 --- Segundo prompt, fatoracao exercicio  ---
 
@@ -29,6 +48,15 @@ aproveite os já existentes em =biblioteca-de-modelos-de-treinos.org=
 no caso preciso de exercícios para fazer em casa (exercícios que eu
 não precise de equipamentos de ginástica).
 **Priorize exercícios de peso corporal (Bodyweight)**.
+
+Quero que o exercício de força seja feito diariamente do dia 15 ao dia
+20 (segunda a sábado) sem alternancia com dias de descanço.
+
+A clássica alternância de treino de força segundas, quartas e sextas
+pra mim não interessa por falta de janela de tempo em minha agenda.
+Portanto prefiro treinos de força diários que tenham
+tempo de duração total menores do que treinos espaçados que tenham
+tempo de duração maiores.
 
 Para sua referência leia os seguintes arquivos:
 - instrucoes-fatoracao-treino.md - é um manual da sintaxe e como gerar

@@ -31,7 +31,8 @@
    
 * Modelos de treino
 ** Potência Inferior
-
+   Author: Gemini
+   
    #+CAPTION: Potência Inferior - Zepp
    #+NAME: tab:potencia-inferior
    | Campo | Tipo de Intervalo | Nome do Exercício              | Duração / Reps | Carga         | Repetir (Loop) | Nota           |
@@ -48,7 +49,7 @@
    |    10 | Relaxado          | Supine Right Hamstring Stretch | 45s            | Peso corporal | -              |                |
 
    #+CAPTION: Potência Inferior - Intervals.icu
-   #+NAME: src:potencia-inferior
+   #+NAME: md:potencia-inferior
    #+begin_src text
      Warmup
      - 1m @ Z2 Polichinelo
@@ -71,7 +72,8 @@
     Treino executado em:
     - 2025/12/12 09:18
 ** Ativação Metabólica
-
+   Author: Gemini
+   
    #+CAPTION: Ativação Metabolica - Zepp
    #+NAME: tab:ativacao-metabolica
    | Campo | Tipo de Intervalo | Nome do Exercício             | Duração / Reps | Carga         | Repetir (Loop) | Nota          |
@@ -89,7 +91,7 @@
    |    11 | Relaxado          | Ab Stretch                    | 1m             | Peso corporal | -              |               |
 
    #+CAPTION: Ativação Metabolica - Intervals.icu
-   #+NAME: tab:ativacao-metabolica
+   #+NAME: md:ativacao-metabolica
    #+begin_src text
      - 1m @ Z2 High Knees
      - 30s @ Z1 Descanso
@@ -107,4 +109,49 @@
 
      - 1m @ Z1 Alongamento Abdominal
    #+end_src
-   
+** Força Corporal Total
+   Author: Gemini 
+   Este treino foi projetado para engajar o corpo todo com foco em grupos musculares que o auxiliarão tanto na força
+   funcional quanto na queima calórica, utilizando apenas o peso corporal. Lembre-se de incrementá-lo em sua biblioteca
+   de modelos de treino para referência futura.
+
+   #+CAPTION: Força Corporal Total - Zepp
+   #+NAME: tab:forca-corporal-total
+   | Campo | Tipo de Intervalo | Nome do Exercício          | Duração / Reps | Carga         | Repetir (Loop) | Nota                  |
+   | :---: | :---:             | :---:                      | :---:          | :---:         | :---:          | :---:                 |
+   |     1 | Aquecimento       | Polichinelo                | 1m             | Peso corporal | -              |                       |
+   |     2 | Descansar         | -                          | 30s            | -             | -              |                       |
+   |     3 | Treino            | Pike Push-Up               | 10 vezes       | Peso corporal | 3x             | Blocos 3 ao 10        |
+   |     4 | Descansar         | -                          | 30s            | -             |                |                       |
+   |     5 | Treino            | Flexão                     | 12 vezes       | Peso corporal |                |                       |
+   |     6 | Descansar         | -                          | 30s            | -             |                |                       |
+   |     7 | Treino            | Superman Pose              | 30s            | Peso corporal |                |                       |
+   |     8 | Descansar         | -                          | 30s            | -             |                |                       |
+   |     9 | Treino            | Bicycle Crunch             | 20 vezes       | Peso corporal |                | (10 por lado)         |
+   |    10 | Descansar         | -                          | 1m             | -             |                |                       |
+   |    11 | Relaxado          | Shoulder Front Stretch     | 45s            | Peso corporal | -              | Alongamento de ombro  |
+   |    12 | Relaxado          | Lower Back Dynamic Stretch | 45s            | Peso corporal | -              | Alongamento de lombar |
+
+
+   #+CAPTION: Força Corporal Total - Intervals.icu
+   #+NAME: md:forca-corporal-total
+   #+begin_src text
+     Warmup
+     - 1m @ Z2 Polichinelo
+     - 30s @ Z1 Descanso
+
+     3x {
+     - 25s @ Z3 // 10 repetições Pike Push-Up
+     - 30s @ Z1 Descanso
+     - 25s @ Z2 // 12 repetições Flexão
+     - 30s @ Z1 Descanso
+     - 30s @ Z2 Superman Pose
+     - 30s @ Z1 Descanso
+     - 30s @ Z2 // 20 repetições Bicycle Crunch
+     - 1m @ Z1 Descanso
+     }
+
+     Cooldown
+     - 45s @ Z1 Alongamento (Ombro)
+     - 45s @ Z1 Alongamento (Lombar)
+   #+end_src
