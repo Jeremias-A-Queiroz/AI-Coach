@@ -56,11 +56,11 @@
      - 30s @ Z1 Descanso
 
      4x {
-     - 35s @ Z2 // 15 repetições Agachamento com peso corporal
+     - 32s @ Z2 // 15 repetições Agachamento com peso corporal
      - 30s @ Z1 Descanso
-     - 65s @ Z3 // 20 repetições Avanço alternado
+     - 70s @ Z2 // 20 repetições Avanço alternado
      - 30s @ Z1 Descanso
-     - 40s @ Z2// 20 repetições Glute Bridge
+     - 42s @ Z2// 20 repetições Glute Bridge
      - 1m @ Z1 Descanso
      }
 
