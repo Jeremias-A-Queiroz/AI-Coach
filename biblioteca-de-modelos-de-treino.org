@@ -68,9 +68,7 @@
      - 45s @ Z1 Alongamento (Isquiotibial Esquerdo)
      - 45s @ Z1 Alongamento (Isquiotibial Direito)
    #+end_src
-*** Execuções
-    Treino executado em:
-    - 2025/12/12 09:18
+
 ** Ativação Metabólica
    Author: Gemini
    
@@ -109,9 +107,7 @@
 
      - 1m @ Z1 Alongamento Abdominal
    #+end_src
-*** Execuções
-    Treino executado em:
-    - 2025/12/13 07:22
+
 ** Força Corporal Total
    Author: Gemini 
    Este treino foi projetado para engajar o corpo todo com foco em grupos musculares que o auxiliarão tanto na força
@@ -158,6 +154,56 @@
      - 45s @ Z1 Alongamento (Ombro)
      - 45s @ Z1 Alongamento (Lombar)
    #+end_src
-*** Execuções
-    Treino executado em:
-    - Treino ainda não executado
+
+** Modelo: Força Superior - Empurrar (Bodyweight)
+/Foco: Peitoral, Ombros, Tríceps e Postura./
+
+*Bloco A: Tabela de Configuração ZEPP*
+
+| Campo | Tipo de Intervalo | Nome do Exercício      | Duração / Reps | Carga         | Repetir (Loop) | Nota                   |
+| :---: | :---:             | :---:                  | :---:          | :---:         | :---:          | :---:                  |
+|     1 | Aquecimento       | Polichinelo            | 1m             | Peso corporal | -              | -                      |
+|     2 | Descansar         | -                      | 30s            | -             | -              | -                      |
+|     3 | Treino            | Flexão                 | 10 vezes       | Peso corporal | 3x             | Blocos 3 ao 10         |
+|     4 | Descansar         | -                      | 30s            | -             |                |                        |
+|     5 | Treino            | Triceps Dip            | 12 vezes       | Peso corporal |                | Mergulho (use cadeira) |
+|     6 | Descansar         | -                      | 30s            | -             |                |                        |
+|     7 | Treino            | Pike Push-Up           | 10 vezes       | Peso corporal |                | Foco em Ombros         |
+|     8 | Descansar         | -                      | 30s            | -             |                |                        |
+|     9 | Treino            | Prone W-Stretch        | 40s            | Peso corporal |                | Ativação costas (chão) |
+|    10 | Descansar         | -                      | 1m             | -             |                |                        |
+|    11 | Relaxado          | Shoulder Front Stretch | 45s            | Peso corporal | -              | Alongamento Ombro      |
+
+*Bloco B: Manual de Criação ZEPP*
+
+1.  *Configuração Inicial:* Nomeie o treino como "Força Superior: Empurrar".
+2.  *Aquecimento:* Adicione "Polichinelo" com duração de 1 minuto. Adicione Descanso de 30s.
+3.  *Bloco de Treino:*
+    *   Adicione "Flexão" (Push-up), meta: 10 vezes. Descanso: 30s.
+    *   Adicione "Triceps Dip", meta: 12 vezes. Descanso: 30s.
+    *   Adicione "Pike Push-Up", meta: 10 vezes. Descanso: 30s.
+    *   Adicione "Prone W-Stretch", meta: 40 segundos (Por duração). Descanso: 1 minuto.
+4.  *Configuração de Repetição:* Clique em 'Repetir', selecione os itens do passo 3 (do exercício Flexão até o último descanso de 1m) e defina o loop para *3 vezes*.
+5.  *Relaxamento:* Adicione "Shoulder Front Stretch", duração 45s.
+
+*Bloco C: Sintaxe INTERVALS.ICU*
+
+#+begin_src text
+Warmup
+- 1m @ Z2 Polichinelo
+- 30s @ Z1 Descanso
+
+3x {
+- 25s @ Z3 // 10 repetições Flexão
+- 30s @ Z1 Descanso
+- 30s @ Z3 // 12 repetições Triceps Dip
+- 30s @ Z1 Descanso
+- 25s @ Z3 // 10 repetições Pike Push-Up
+- 30s @ Z1 Descanso
+- 40s @ Z1 Prone W-Stretch
+- 1m @ Z1 Descanso
+}
+
+Cooldown
+- 45s @ Z1 Alongamento (Ombro)
+#+end_src
